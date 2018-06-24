@@ -7,31 +7,18 @@
 	<link href="<c:url value="/resources/jqueryui/1.8/themes/base/jquery.ui.core.css" />" rel="stylesheet" type="text/css"/>
 	<link href="<c:url value="/resources/jqueryui/1.8/themes/base/jquery.ui.theme.css" />" rel="stylesheet" type="text/css"/>
 	<link href="<c:url value="/resources/jqueryui/1.8/themes/base/jquery.ui.tabs.css" />" rel="stylesheet" type="text/css"/>
-	
-	<!--
-		customized description of project
-	-->
 	<meta name="_csrf" content="${_csrf.token}"/>
 	<meta name="_csrf_header" content="${_csrf.headerName}"/>
 </head>
 <body>
 <h1><a href="<c:url value="/" />">GO CANDIDATE</a></h1>
-<p>Recommended: Using a Web Developer tool such a Firebug to inspect the client/server interaction</p>
+<p>Upload resumes to get match results through machine learning techniques</p>
 <div id="tabs">
 	<ul>
 		<li><a href="#simple">Simple</a></li>
 		<li><a href="#mapping">Request Mapping</a></li>
 		<li><a href="#data">Request Data</a></li>
-		<li><a href="#responses">Response Writing</a></li>
-		<li><a href="#messageconverters">Message Converters</a></li>
-		<li><a href="#views">View Rendering</a></li>
-		<li><a href="#convert">Type Conversion</a></li>
-		<li><a href="#validation">Validation</a></li>
-		<li><a href="<c:url value="/form" />" title="forms">Forms</a></li>
 		<li><a href="<c:url value="/fileupload" />" title="fileupload">File Upload</a></li>
-		<li><a href="#exceptions">Exception Handling</a></li>
-		<li><a href="#redirect">Redirecting</a></li>
-        <li><a href="#async">Async Requests</a></li>
     </ul>
     <div id="simple">
 		<h2>Simple</h2>
