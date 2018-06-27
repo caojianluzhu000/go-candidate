@@ -14,3 +14,12 @@ in intelliJ use import project -> import maven project -> continue and finish
 
 # pages
 main page: home.jsp
+
+
+#Huaijin:
+1. original spring web app code was from
+https://github.com/spring-projects/spring-mvc-showcase
+2. dl4j video was from
+https://www.youtube.com/watch?v=N5sQcOOtehY&list=PLockSG2gRivuxy5J_wxix3KYNZVrh8FaY
+code source:
+https://github.com/deeplearning4j/dl4j-examples

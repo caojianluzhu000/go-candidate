@@ -15,7 +15,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CSVExample.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CSVExample.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dl4j-examples/src/main/java/deeplearning4j/services/dataexamples/CSVExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="271">
@@ -78,11 +78,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="345">
+              <caret line="23" column="11" lean-forward="false" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -159,8 +159,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="152" />
-    <option name="y" value="120" />
+    <option name="x" value="135" />
+    <option name="y" value="76" />
     <option name="width" value="1268" />
     <option name="height" value="774" />
   </component>
@@ -188,70 +188,6 @@
             <path>
               <item name="go-candidate" type="b2602c69:ProjectViewProjectNode" />
               <item name="go-candidate" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="go-candidate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="go-candidate" type="462c0819:PsiDirectoryNode" />
-              <item name="dl4j-examples" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="go-candidate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="go-candidate" type="462c0819:PsiDirectoryNode" />
-              <item name="dl4j-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="go-candidate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="go-candidate" type="462c0819:PsiDirectoryNode" />
-              <item name="dl4j-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="go-candidate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="go-candidate" type="462c0819:PsiDirectoryNode" />
-              <item name="dl4j-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="go-candidate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="go-candidate" type="462c0819:PsiDirectoryNode" />
-              <item name="dl4j-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="deeplearning4j" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="go-candidate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="go-candidate" type="462c0819:PsiDirectoryNode" />
-              <item name="dl4j-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="deeplearning4j" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="go-candidate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="go-candidate" type="462c0819:PsiDirectoryNode" />
-              <item name="dl4j-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="deeplearning4j" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-              <item name="dataexamples" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="go-candidate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="go-candidate" type="462c0819:PsiDirectoryNode" />
-              <item name="dl4j-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="go-candidate" type="b2602c69:ProjectViewProjectNode" />
@@ -490,7 +426,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="152" y="120" width="1268" height="774" extended-state="0" />
+    <frame x="135" y="76" width="1268" height="774" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -699,14 +635,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dl4j-examples/src/main/resources/iris.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -727,6 +655,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="271">
           <caret line="50" column="25" lean-forward="false" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="11" lean-forward="false" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
           <folding />
         </state>
       </provider>
