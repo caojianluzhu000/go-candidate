@@ -11,3 +11,6 @@ in intelliJ use import project -> import maven project -> continue and finish
 "server run" => mvn command use "jetty: run"
 3. after build successful, click this configuration
 4. when server started, go "http://localhost:8080/go-candidate/" in broswer to view app
+
+# pages
+main page: home.jsp

@@ -2,153 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="047286a5-e660-4055-a466-a52a211334a1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/java_keywords.txt" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/org/springframework/samples/mvc/async/CallableController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/org/springframework/samples/mvc/async/DeferredResultController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/org/springframework/samples/mvc/async/JavaBean.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/org/springframework/samples/mvc/async/TimeoutCallableProcessingInterceptor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/org/springframework/samples/mvc/convert/ConvertController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/org/springframework/samples/mvc/convert/JavaBean.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/org/springframework/samples/mvc/convert/MaskFormat.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/org/springframework/samples/mvc/convert/MaskFormatAnnotationFormatterFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/org/springframework/samples/mvc/convert/NestedBean.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/org/springframework/samples/mvc/convert/SocialSecurityNumber.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/org/springframework/samples/mvc/exceptions/BusinessException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/org/springframework/samples/mvc/exceptions/ExceptionController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/org/springframework/samples/mvc/exceptions/GlobalExceptionHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/org/springframework/samples/mvc/form/FormBean.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/org/springframework/samples/mvc/form/FormController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/org/springframework/samples/mvc/form/InquiryType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/org/springframework/samples/mvc/messageconverters/JavaBean.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/org/springframework/samples/mvc/messageconverters/MessageConvertersController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/org/springframework/samples/mvc/redirect/RedirectController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/org/springframework/samples/mvc/response/ResponseController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/org/springframework/samples/mvc/validation/JavaBean.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/org/springframework/samples/mvc/validation/ValidationController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/org/springframework/samples/mvc/views/JavaBean.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/org/springframework/samples/mvc/views/ViewsController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/springframework/samples/mvc/AbstractContextControllerTests.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/springframework/samples/mvc/async/CallableControllerTests.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/springframework/samples/mvc/async/DeferredResultControllerTests.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/springframework/samples/mvc/convert/ConvertControllerTests.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/springframework/samples/mvc/data/CustomArgumentControllerTests.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/springframework/samples/mvc/data/DataControllerTests.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/springframework/samples/mvc/data/StandardArgumentsControllerTests.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/springframework/samples/mvc/exceptions/ExceptionControllerTests.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/springframework/samples/mvc/fileupload/FileUploadControllerTests.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/springframework/samples/mvc/form/FormControllerTests.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/springframework/samples/mvc/mapping/MappingControllerTests.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/springframework/samples/mvc/messageconverters/MessageConvertersControllerTests.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/springframework/samples/mvc/redirect/RedirectControllerTests.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/springframework/samples/mvc/response/ResponseControllerTests.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/springframework/samples/mvc/simple/SimpleControllerRevisitedTests.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/springframework/samples/mvc/simple/SimpleControllerTests.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/springframework/samples/mvc/validation/ValidationControllerTests.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/springframework/samples/mvc/views/ViewsControllerTests.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/log4j2-test.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-showcase/WEB-INF/classes/META-INF/aop-ajc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-showcase/WEB-INF/classes/builddef.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-showcase/WEB-INF/classes/log4j2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-showcase/WEB-INF/views/fileupload.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-showcase/WEB-INF/views/form.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-showcase/WEB-INF/views/home.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-showcase/WEB-INF/views/redirect/redirectResults.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-showcase/WEB-INF/views/views/dataBinding.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-showcase/WEB-INF/views/views/html.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-showcase/WEB-INF/views/views/viewName.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-showcase/resources/form.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-showcase/resources/jquery/1.6/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-showcase/resources/jqueryform/2.8/jquery.form.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-showcase/resources/jqueryui/1.8/jquery.ui.core.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-showcase/resources/jqueryui/1.8/jquery.ui.tabs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-showcase/resources/jqueryui/1.8/jquery.ui.widget.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-showcase/resources/jqueryui/1.8/themes/base/images/ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-showcase/resources/jqueryui/1.8/themes/base/images/ui-bg_flat_75_ffffff_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-showcase/resources/jqueryui/1.8/themes/base/images/ui-bg_glass_55_fbf9ee_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-showcase/resources/jqueryui/1.8/themes/base/images/ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-showcase/resources/jqueryui/1.8/themes/base/images/ui-bg_glass_75_dadada_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-showcase/resources/jqueryui/1.8/themes/base/images/ui-bg_glass_75_e6e6e6_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-showcase/resources/jqueryui/1.8/themes/base/images/ui-bg_glass_95_fef1ec_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-showcase/resources/jqueryui/1.8/themes/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-showcase/resources/jqueryui/1.8/themes/base/images/ui-icons_222222_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-showcase/resources/jqueryui/1.8/themes/base/images/ui-icons_2e83ff_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-showcase/resources/jqueryui/1.8/themes/base/images/ui-icons_454545_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-showcase/resources/jqueryui/1.8/themes/base/images/ui-icons_888888_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-showcase/resources/jqueryui/1.8/themes/base/images/ui-icons_cd0a0a_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-showcase/resources/jqueryui/1.8/themes/base/jquery.ui.all.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-showcase/resources/jqueryui/1.8/themes/base/jquery.ui.base.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-showcase/resources/jqueryui/1.8/themes/base/jquery.ui.core.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-showcase/resources/jqueryui/1.8/themes/base/jquery.ui.tabs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-showcase/resources/jqueryui/1.8/themes/base/jquery.ui.theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-showcase/resources/json2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-showcase/resources/messages/error.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-showcase/resources/messages/info.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-showcase/resources/messages/messages.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-showcase/resources/messages/success.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-showcase/resources/messages/warning.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-org.springframework.samples.mvc.async.CallableControllerTests.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-org.springframework.samples.mvc.async.DeferredResultControllerTests.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-org.springframework.samples.mvc.convert.ConvertControllerTests.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-org.springframework.samples.mvc.data.CustomArgumentControllerTests.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-org.springframework.samples.mvc.data.DataControllerTests.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-org.springframework.samples.mvc.data.StandardArgumentsControllerTests.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-org.springframework.samples.mvc.exceptions.ExceptionControllerTests.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-org.springframework.samples.mvc.fileupload.FileUploadControllerTests.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-org.springframework.samples.mvc.form.FormControllerTests.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-org.springframework.samples.mvc.mapping.MappingControllerTests.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-org.springframework.samples.mvc.messageconverters.MessageConvertersControllerTests.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-org.springframework.samples.mvc.redirect.RedirectControllerTests.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-org.springframework.samples.mvc.response.ResponseControllerTests.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-org.springframework.samples.mvc.simple.SimpleControllerRevisitedTests.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-org.springframework.samples.mvc.simple.SimpleControllerTests.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-org.springframework.samples.mvc.validation.ValidationControllerTests.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-org.springframework.samples.mvc.views.ViewsControllerTests.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/org.springframework.samples.mvc.async.CallableControllerTests.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/org.springframework.samples.mvc.async.DeferredResultControllerTests.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/org.springframework.samples.mvc.convert.ConvertControllerTests.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/org.springframework.samples.mvc.data.CustomArgumentControllerTests.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/org.springframework.samples.mvc.data.DataControllerTests.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/org.springframework.samples.mvc.data.StandardArgumentsControllerTests.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/org.springframework.samples.mvc.exceptions.ExceptionControllerTests.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/org.springframework.samples.mvc.fileupload.FileUploadControllerTests.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/org.springframework.samples.mvc.form.FormControllerTests.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/org.springframework.samples.mvc.mapping.MappingControllerTests.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/org.springframework.samples.mvc.messageconverters.MessageConvertersControllerTests.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/org.springframework.samples.mvc.redirect.RedirectControllerTests.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/org.springframework.samples.mvc.response.ResponseControllerTests.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/org.springframework.samples.mvc.simple.SimpleControllerRevisitedTests.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/org.springframework.samples.mvc.simple.SimpleControllerTests.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/org.springframework.samples.mvc.validation.ValidationControllerTests.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/org.springframework.samples.mvc.views.ViewsControllerTests.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/META-INF/aop-ajc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/builddef.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/log4j2-test.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/WEB_002dINF/views/home_jsp.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/org/springframework/samples/mvc/config/MvcShowcaseAppInitializer.java" afterPath="$PROJECT_DIR$/src/main/java/org/springframework/webmvc/config/MvcShowcaseAppInitializer.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/org/springframework/samples/mvc/config/RootConfig.java" afterPath="$PROJECT_DIR$/src/main/java/org/springframework/webmvc/config/RootConfig.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/org/springframework/samples/mvc/config/WebMvcConfig.java" afterPath="$PROJECT_DIR$/src/main/java/org/springframework/webmvc/config/WebMvcConfig.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/org/springframework/samples/mvc/data/JavaBean.java" afterPath="$PROJECT_DIR$/src/main/java/org/springframework/webmvc/data/JavaBean.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/org/springframework/samples/mvc/data/RequestDataController.java" afterPath="$PROJECT_DIR$/src/main/java/org/springframework/webmvc/data/RequestDataController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/org/springframework/samples/mvc/data/custom/CustomArgumentController.java" afterPath="$PROJECT_DIR$/src/main/java/org/springframework/webmvc/data/custom/CustomArgumentController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/org/springframework/samples/mvc/data/custom/CustomArgumentResolver.java" afterPath="$PROJECT_DIR$/src/main/java/org/springframework/webmvc/data/custom/CustomArgumentResolver.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/org/springframework/samples/mvc/data/custom/RequestAttribute.java" afterPath="$PROJECT_DIR$/src/main/java/org/springframework/webmvc/data/custom/RequestAttribute.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/org/springframework/samples/mvc/data/standard/StandardArgumentsController.java" afterPath="$PROJECT_DIR$/src/main/java/org/springframework/webmvc/data/standard/StandardArgumentsController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/org/springframework/samples/mvc/fileupload/FileUploadController.java" afterPath="$PROJECT_DIR$/src/main/java/org/springframework/webmvc/fileupload/FileUploadController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/org/springframework/samples/mvc/mapping/ClasslevelMappingController.java" afterPath="$PROJECT_DIR$/src/main/java/org/springframework/webmvc/mapping/ClasslevelMappingController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/org/springframework/samples/mvc/mapping/JavaBean.java" afterPath="$PROJECT_DIR$/src/main/java/org/springframework/webmvc/mapping/JavaBean.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/org/springframework/samples/mvc/mapping/MappingController.java" afterPath="$PROJECT_DIR$/src/main/java/org/springframework/webmvc/mapping/MappingController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/org/springframework/samples/mvc/simple/SimpleController.java" afterPath="$PROJECT_DIR$/src/main/java/org/springframework/webmvc/simple/SimpleController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/org/springframework/samples/mvc/simple/SimpleControllerRevisited.java" afterPath="$PROJECT_DIR$/src/main/java/org/springframework/webmvc/simple/SimpleControllerRevisited.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/builddef.lst" afterPath="$PROJECT_DIR$/target/classes/builddef.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/dl4j-examples/target/" />
@@ -161,11 +15,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CSVExample.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CSVExample.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dl4j-examples/src/main/java/deeplearning4j/services/dataexamples/CSVExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+            <state relative-caret-position="271">
+              <caret line="50" column="25" lean-forward="false" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="iris.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dl4j-examples/src/main/resources/iris.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -204,11 +68,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.jsp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="home.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="151">
-              <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+              <caret line="21" column="9" lean-forward="false" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -217,8 +81,18 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="63" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="63" />
+            <state relative-caret-position="240">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BasicCSVClassifier.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dl4j-examples/src/main/java/deeplearning4j/services/dataexamples/BasicCSVClassifier.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -253,11 +127,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/dl4j-examples/src/main/java/deeplearning4j/services/dataexamples/CSVExample.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/org/springframework/webmvc/config/WebMvcConfig.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -318,6 +192,70 @@
             <path>
               <item name="go-candidate" type="b2602c69:ProjectViewProjectNode" />
               <item name="go-candidate" type="462c0819:PsiDirectoryNode" />
+              <item name="dl4j-examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="go-candidate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="go-candidate" type="462c0819:PsiDirectoryNode" />
+              <item name="dl4j-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="go-candidate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="go-candidate" type="462c0819:PsiDirectoryNode" />
+              <item name="dl4j-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="go-candidate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="go-candidate" type="462c0819:PsiDirectoryNode" />
+              <item name="dl4j-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="go-candidate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="go-candidate" type="462c0819:PsiDirectoryNode" />
+              <item name="dl4j-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="deeplearning4j" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="go-candidate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="go-candidate" type="462c0819:PsiDirectoryNode" />
+              <item name="dl4j-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="deeplearning4j" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="go-candidate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="go-candidate" type="462c0819:PsiDirectoryNode" />
+              <item name="dl4j-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="deeplearning4j" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="dataexamples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="go-candidate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="go-candidate" type="462c0819:PsiDirectoryNode" />
+              <item name="dl4j-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="go-candidate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="go-candidate" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -340,15 +278,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="springframework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="go-candidate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="go-candidate" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-              <item name="webmvc" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="go-candidate" type="b2602c69:ProjectViewProjectNode" />
@@ -572,7 +501,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.038336053" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35060975" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15243903" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -695,14 +624,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dl4j-examples/src/main/java/deeplearning4j/services/dataexamples/CSVExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dl4j-examples/src/main/java/deeplearning4j/services/convolution/sentenceclassification/CnnSentenceClassificationExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -735,14 +656,6 @@
             <element signature="n#dependencies#0;n#project#0;n#!!top" expanded="false" />
             <element signature="n#build#0;n#project#0;n#!!top" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="63" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="63" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -781,7 +694,39 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="151">
-          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <caret line="21" column="9" lean-forward="false" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dl4j-examples/src/main/resources/iris.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dl4j-examples/src/main/java/deeplearning4j/services/dataexamples/BasicCSVClassifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dl4j-examples/src/main/java/deeplearning4j/services/dataexamples/CSVExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="50" column="25" lean-forward="false" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="25" />
           <folding />
         </state>
       </provider>
