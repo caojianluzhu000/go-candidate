@@ -10,6 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="dl4j-examples" target="1.8" />
       <module name="spring-mvc-showcase" target="1.8" />
     </bytecodeTargetLevel>
   </component>

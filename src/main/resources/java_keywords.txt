@@ -1,0 +1,24 @@
+Java
+J2ee
+Javascript
+Hibernate
+Core java
+Spring
+Jquery
+Struts
+Xml
+Html
+Web services
+Jsp
+Sql
+Ajax
+Android
+Web technologies
+Css
+Mysql
+Java script
+Php
+Servlets
+SOAP
+REST
+JSON
