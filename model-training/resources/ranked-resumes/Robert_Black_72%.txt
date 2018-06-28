@@ -24,13 +24,13 @@ White LionJanuary 2013 to June 2013
 Web Developer
 White LionDecember 2011 to January 2013
 * Working with PHP, JavaScript, MySQL, HTML and CSS to develop websites for clients
-* Research & development for company policy and practice with regards to modern web practices, including Responsive Design and Modular JavaScript
+* Research & development for company policy and practice with regards to modern web practices, includingÂ Responsive DesignÂ andÂ Modular JavaScript
 * Working with an MVC framework (Kohana)
-* Sites worked on: Michael Angelo's, Teach The Vote and ESHA
+* Sites worked on:Â Michael Angelo's,Â Teach The VoteÂ andÂ ESHA
 
 Co-Owner/Web Developer
 SuperGravity DesignMay 2009 to December 2011
-* Manage client relationships, project health and site architecture planning
+* Manage client relationships, project health andÂ site architecture planning
 * Developing on WordPress for custom web applications
 * Advertising and company positioning
 * See Sites
@@ -40,7 +40,7 @@ Brand LabsJanuary 2011 to October 2011
 * Implementing projects using HTML, CSS, and JavaScript
 * Supported sites in IE6+, FF2+, Safari 4+, Chrome and Opera 9+
 * Developed Front-end projects for E-Commerce websites based on the Volusion Platform
-* Sites worked on: Brand Labs, Seismic Audio, Austin Bazaar Blog and Red Hat Society Store
+* Sites worked on:Â Brand Labs,Â Seismic Audio,Â Austin Bazaar BlogÂ andÂ Red Hat Society Store
 
 Ceramics Instructor
 Firebrick Gallery & Pottery StudioMay 2010 to October 2011
