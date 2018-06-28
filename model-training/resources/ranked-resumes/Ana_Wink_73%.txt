@@ -2,7 +2,15 @@ Ana Wink
 3332 College Avenue
 Dayton, OH 45429
 (123) 885-1633
-Email : [email]Career GoalTo work with your esteemed organization as a Full Stack JavaScript Developer and contribute to organizational success utilizing my knowledge in PostgreSQL 9+, JavaScript MVC frameworks, RSpec, Cucumber, BDD/TDD, HTML 5, jQuery, and NoSQL.Technical SkillsGood knowledge of programming languages:
+Email : [email]
+
+Career Goal
+
+To work with your esteemed organization as a Full Stack JavaScript Developer and contribute to organizational success utilizing my knowledge in PostgreSQL 9+, JavaScript MVC frameworks, RSpec, Cucumber, BDD/TDD, HTML 5, jQuery, and NoSQL.
+
+
+Technical Skills
+Good knowledge of programming languages:
 * HTML
 * CSS
 * JavaScript
@@ -34,23 +42,41 @@ Talented in database systems:
 * MongoDB
 Skilled in templates languages:
 * Mustache
-* HandlebarsRelevant ExperienceFull Stack JavaScript Developer
-Newton SoftwareJanuary 2012 – Present
-Dayton, OH* Designed and developed tracking and support applications for software development.
+* Handlebars
+Relevant Experience
+Full Stack JavaScript Developer
+Newton Software
+January 2012 â€“ Present
+Dayton, OH
+
+
+* Designed and developed tracking and support applications for software development.
 * Supported development teams with web content and application functionality.
 * Formulated and executed new API methods for engineering functions.
 * Generated latest trends and reports relating to software development data.
 * Provided technical assistance for styling of web sites and web apps.
 * Participated in understanding of new industry standards and trends.
 * Prepared and reported project status updates to senior managers.
-* Maintained and managed interacting technologies for web applications.* Full Stack JavaScript Developer
-Eden Technologies, Inc.November 2010 – January 2012
-New York, NY* Programmed and executed code in HTML5 and CSS.
+* Maintained and managed interacting technologies for web applications.
+* 
+
+Full Stack JavaScript Developer
+Eden Technologies, Inc.
+November 2010 â€“ January 2012
+New York, NY
+
+
+* Programmed and executed code in HTML5 and CSS.
 * Suggested and implemented new features for existing apps.
 * Designed and developed software solutions for Agile software teams.
 * Provided technical guidance during CoPs for shared knowledge.
 * Implemented features in Ruby on Rails and other BDD tools.
 * Prepared and updated tests in testing libraries such as RSpec.
 * Developed, maintained and enhanced web services and technology platforms.
-* Participated in introduction of new features for websites.Educational BackgroundBachelor’s Degree in Computer Science
-Mount Olive College
+* Participated in introduction of new features for websites.
+
+Educational Background
+Bachelorâ€™s Degree in Computer Science
+Mount Olive College
+
+
