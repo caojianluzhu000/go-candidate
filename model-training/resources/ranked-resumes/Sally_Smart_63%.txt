@@ -3,42 +3,44 @@ Sally Smart
 ss@domain.com | Online Profile | @twitterhandle | Student Portfolio Link
 
 Junior Web Developer
-A conscientious, fast learner offering the ability to assess an organizationís needs and create a complementary, robust web presence. Experienced in all 5 stages of the web development process including: information gathering, planning, design, development, testing and delivery and maintenance. Proficient with a wide array of scripting languages and multimedia web tools.
+A conscientious, fast learner offering the ability to assess an organization‚Äôs needs and create a complementary, robust web presence. Experienced in all 5 stages of the web development process including: information gathering, planning, design, development, testing and delivery and maintenance. Proficient with a wide array of scripting languages and multimedia web tools.
 Technical Toolbox
-Languages:†JavaScript, CSS, HTML, XHTML, Java, .Net and Python. Some knowledge of MySQL
-Adobe Suite:†Adobe CS5.5 Web Premium: Dreamweaver, Flash Catalyst, Flash Professional, Flash Builder, Photoshop, Illustrator, Acrobat X Pro, Fireworks, Contribute, Bridge, Device Central and Media Encoder.
-Additional Web Tools:†Flash, Flex, AIR and JavaFX, REST, SOAP, XML, FrontPage, Webtrends and assorted validation and testing tools.
+Languages:¬†JavaScript, CSS, HTML, XHTML, Java, .Net and Python. Some knowledge of MySQL
+Adobe Suite:¬†Adobe CS5.5 Web Premium: Dreamweaver, Flash Catalyst, Flash Professional, Flash Builder, Photoshop, Illustrator, Acrobat X Pro, Fireworks, Contribute, Bridge, Device Central and Media Encoder.
+Additional Web Tools:¬†Flash, Flex, AIR and JavaFX, REST, SOAP, XML, FrontPage, Webtrends and assorted validation and testing tools.
 Education
-Franklin University ó Anytown, OH
+Franklin University ‚Äî Anytown, OH
 BS, Web Development, degree expected June, 2013
 Courses:
-ï PROBLEM SOLVING WITH COMPUTING
-ï DATABASE MANAGEMENT SYSTEMS
-ï HUMAN COMPUTER INTERACTION
-ï FUNDAMENTALS OF GRAPHIC DESIGN
-ï ADVANCED GRAPHIC DESIGN
-ï PRINCIPLES OF PROGRAMMINGï MARKETING
-ï INTRODUCTION TO WEB PAGE CONSTRUCTION
-ï WEB DESIGN AND IMPLEMENTATION
-ï WEB APPLICATION DEVELOPMENT
-ï WEB INFORMATION SYSTEMS PROGRAMMING
-ï WEB DEVELOPMENT CAPSTONE†
+‚Ä¢ PROBLEM SOLVING WITH COMPUTING
+‚Ä¢ DATABASE MANAGEMENT SYSTEMS
+‚Ä¢ HUMAN COMPUTER INTERACTION
+‚Ä¢ FUNDAMENTALS OF GRAPHIC DESIGN
+‚Ä¢ ADVANCED GRAPHIC DESIGN
+‚Ä¢ PRINCIPLES OF PROGRAMMING
+‚Ä¢ MARKETING
+‚Ä¢ INTRODUCTION TO WEB PAGE CONSTRUCTION
+‚Ä¢ WEB DESIGN AND IMPLEMENTATION
+‚Ä¢ WEB APPLICATION DEVELOPMENT
+‚Ä¢ WEB INFORMATION SYSTEMS PROGRAMMING
+‚Ä¢ WEB DEVELOPMENT CAPSTONE
+¬†
 Web Development Experience
 Volunteer Work
-Anytown Food Bank, Anytown, OH†www.food4anytown.com
+Anytown Food Bank, Anytown, OH¬†www.food4anytown.com
 Web Developer
 * Co-developed a vibrant, secure website using interactive features and SEO best practices to optimize traffic, page views and the user experience (UX).
 * Created online promotions, press releases and donation forms that increased cash and food contributions from the local community by 53%.
 * Linked online donations to the fundraising database.
-* Engineered a ìFood4Anytownî web application, customized for mobile devices, so donors can view a list of needed items from the grocery store.
-Anytown Pony League, Anytown, OH†www.anytownpony.com
+* Engineered a ‚ÄúFood4Anytown‚Äù web application, customized for mobile devices, so donors can view a list of needed items from the grocery store.
+Anytown Pony League, Anytown, OH¬†www.anytownpony.com
 Web Developer
 * Integrated an online enrollment form using Java, Python and an XML flat file along with a PayPal shopping cart plug-in and simple login system to enhance the functionality of this website.
 * Integrated images, sound, animation and video highlights of Pony League games to improve the user experience (UX).
 Student Projects
 Mid-West Clothingwww.ssportfolio.com/mwclothing/
 Developed a website for this fictitious clothing manufacturer that included tools for marketing, cross-promotion and email blasts. The site also included an embedded WordPress blog, plug-ins and a custom banner widget to promote new clothing lines.
-Joeís Pizzawww.ssportfolio.com/joes/
+Joe‚Äôs Pizzawww.ssportfolio.com/joes/
 Created a website for this mythical, pizza shop that included a slideshow and collapsible sections on the menu page.
 Mid-West Realitywww.ssportfolio.com/mwrealty
 Created a picture viewing website for this fictitious reality company using XHTML, CSS, JavaScript, PHP and popular APIs like Facebook, Twitter and Flickr. Added an XML file for captioning.
