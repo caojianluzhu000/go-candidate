@@ -12,7 +12,7 @@ def read_csv(path):
 
 def save_to_file(data, file_name):
     df = pd.DataFrame(data)
-    df.to_csv("../resources/" + file_name, sep=',', encoding='utf-8')
+    df.to_csv("/Users/yixuanchen/go-candidate/model-training/resources/" + file_name, sep=',', encoding='utf-8')
 
 
 # Load the dataset
@@ -34,7 +34,7 @@ regr.fit(resumes_X_train, resumes_y_train)
 
 
 # save the model to disk
-filename = '../model/finalized_model.sav'
+filename = '/Users/yixuanchen/go-candidate/model-training/model/finalized_model.sav'
 pickle.dump(regr, open(filename, 'wb'))
 
 
