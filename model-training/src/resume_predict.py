@@ -71,7 +71,10 @@ data_to_predict = data[:, 1:]
 predit = loaded_model.predict(data_to_predict)
 
 index = 0
+result_output = []
 for candidate in data:
+    result_output.append([candidate[0], predit[index]])
     print(candidate[0] + "," + str(predit[index]))
     index+1
 
+pd1 = pd.DataFrame(re)
