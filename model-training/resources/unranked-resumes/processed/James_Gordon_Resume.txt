@@ -1,0 +1,32 @@
+11 Jerome Street ~ Brooklyn, NY 14444
+? (999) 999-9999  james @ email. com James Gordon
+WEB DEVELOPER
+Energetic, results-driven individual with proven skills in web development using latest technologies. Thorough understanding of continuous development models to contribute to the success of web development projects.
+• Demonstrated skills in JavaScript, CSS3 and HTML5.
+• Comprehensive understanding of the Dojo Toolkit.
+• Strong knowledge of PHP frameworks and development with special focus on UI.
+• Able to work with methodical source controls such as SVN and SQL.
+TECHNICAL KNOWLEDGE
+Access and SQLWindowsWordPerfectVisual BasicUnix and DOSFrontPage
+EDUCATION
+New York State University, New York, NY | Expected January, 2015
+Bachelor of Computer Sciences,
+Cumulative GPA: 3.2/4.0; Major GPA 3.8/4.0
+COURSE PROJECTS
+System Analysis and Design
+• Led a team of 10 students in designing and implementing a database using SQL.
+• Managed data by performing data entry activities with benefit of a search engine robot.
+• Developed documentation of the project including dataflow charts, process specifications and user manuals.
+E-Commerce
+• Developed and designed website for the university using HTML/PHP/JavaScript.
+
+INTERNSHIP
+IBM, New York, NY, 6/2013 to 9/2013
+Intern – Web Development
+• Developed and built sites using PHP, HTML and MySQL
+• Installed and configured software and assisted in troubleshooting software issues
+• Assisted in developing screens using Java, CSS and JSP
+• Implemented validations for web projects and assisted in the testing phases
+• Designed, created and assembled web graphics
+• Provided support in setting up virtual environments for debugging purposes
+
