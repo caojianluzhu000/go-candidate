@@ -1,13 +1,13 @@
-GABRIELLA 
+GABRIELLAÂ 
 KUVALIS
 Gabriella Kuvalis
 427 Cordelia Lake
-New York 
+New YorkÂ 
 New York
 +1 (555) 896 2060
 EXPERIENCE
-Front-End Developer 
-01/2014 – present
+Front-End DeveloperÂ 
+01/2014 â€“ present
 * Advocated Web interaction design best practices, with a focus on consistency and usability
 * Assured that all user input is validated before submitting to back-end
 * Built reusable code and libraries for future use
@@ -32,6 +32,6 @@ Front-End Developer 
 * Rolled out and scaled new web sites that integrate consumer marketing and social media
 * Worked with backend engineers and QA to see projects through, from conception to completion
 EDUCATION
-Rhode Island School of Design 
-2009 – 2014
+Rhode Island School of DesignÂ 
+2009Â â€“Â 2014
 
