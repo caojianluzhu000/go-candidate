@@ -5,7 +5,7 @@ import re
 
 # get file names from command prompt
 keywords_file_name = "keywords.txt"
-csv_file = "resume_data.csv"
+csv_file = "../resources/resume_data.csv"
 
 # HELPER FUNCTION
 # returns an array with the number of times a keyword is found in resume_words
