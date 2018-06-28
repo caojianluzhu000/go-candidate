@@ -1,0 +1,36 @@
+William Persinger
+206 Longview Avenue
+Flushing, NY 11354
+(888)-818-6790
+[email]
+Job Objective Looking Seeking the position of a Javascript Developer.
+Highlights of Qualifications:
+* Huge experience in developing large-scale AJAX applications
+* Good expertise in jQuery and writing jQuery plug-ins
+* Sound knowledge of Model-View-Controller (MVC) frameworks and unit testing frameworks (PHPUnit, JUnit, QUnit)
+* Exceptional knowledge of PHP, Java, Ruby, Python, .NET, HTML/CSS, JAXB and JDOM
+* Strong understanding of object-oriented JavaScript
+* Strong problem solving skills
+Professional Experience:
+Javascript Developer
+Hertz, Inc., Flushing, NY
+July 2006 – Present
+* Designed and documented front-end projects of various scope.
+* Developed and maintained the presentation layer of company’s site.
+* Participated in code reviews of other developers’ work.
+* Provided technical assistance to engineers, designers, managers.
+* Coordinated with 3rd parties on technical designs and issues.
+* Presented technical issues and their business impact to management.
+* Coordinated projects, and communicated technical issues using non-technical language.
+Javascript Developer
+Sprint Corporation, Flushing, NY
+May 2002 – June 2006
+* Managed day-to-day site design and creation.
+* Developed user interface elements for Web-based applications based on program specifications.
+* Created web content, web graphics, and multimedia for client websites.
+* Monitored site traffic and proactively implemented site enhancements in terms of capacity and scalability.
+* Handled customer queries and issues and provided impeccable customer service.
+* Assisted in business requirement gathering, site assessment, competitive analysis, secondary research, etc.
+Education
+Bachelor’s Degree in Computer Science
+Cedarville University, Ohio, OH
