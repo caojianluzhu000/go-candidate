@@ -3,11 +3,14 @@ Home Address
 1405 Franklin St. #201
 San Francisco, CA 94109
 (415)509-3728
-msde@speakeasy.net Alternate Address
+msde@speakeasy.net 
+
+Alternate Address
 14 Melvina Drive
 Lawrenceville, NJ 08648
 (415)674-6806
-mark@apicom.com Objective 
+mark apicom.com
+Objective 
 A full-time position as a software developer, in a role including design and architecture.
 Education 
 Carnegie Mellon University, Pittsburgh, PA. 

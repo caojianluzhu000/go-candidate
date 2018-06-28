@@ -24,12 +24,12 @@ EXPERIENCE
 * Sep '14
 * Feb '15
 * 
-* Translated design team’s UX wireframes and mockups into responsive, interactive features, using HTML/CSS and JavaScript
+* Translated design team   s UX wireframes and mockups into responsive, interactive features, using HTML/CSS and JavaScript
 * Worked with agile team to migrate legacy company website to AngularJS, Sass, HTML5, and Drupal
 * Created HTML email templates that improved email CTR rates by ~25%
 * Designed and developed GUI for applications and modules, using JavaScript
 SKILLS
-* Won 1st place (out of 50+) at TradeLot’s annual hackathon
+* Won 1st place (out of 50+) at TradeLot   s annual hackathon
 * Expert in responsive, mobile-first development
 * JavaScript (jQuery, AngularJS, React, Bootstrap), HTML/CSS, Git, Mocha, Jasmine
 
