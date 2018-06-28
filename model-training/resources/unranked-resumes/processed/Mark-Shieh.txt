@@ -1,0 +1,57 @@
+Mark Shieh
+Home Address
+1405 Franklin St. #201
+San Francisco, CA 94109
+(415)509-3728
+msde@speakeasy.net Alternate Address
+14 Melvina Drive
+Lawrenceville, NJ 08648
+(415)674-6806
+mark@apicom.com Objective 
+A full-time position as a software developer, in a role including design and architecture.
+Education 
+Carnegie Mellon University, Pittsburgh, PA. 
+Bachelor of Science in Electrical Computer Engineering, May 1997. 
+Double major in Math/Computer Science. 
+Programming Skills 
+Experienced in Java, J2EE, EJB, JSP, JNDI, JDBC, SQL, Java Application Server, Swing, C/C++, Python, XML, UML and RUP methodology, design patterns, OO development, PERL, LISP, CLOS, Scheme, Windows NT/2k/XP, Unix (linux and Solaris), HTML, and Javascript.
+Relevant Experience 
+Automation Programming, Inc
+Software Engineer, November '01 - Present
+*  Developer for STAN 
+* Designed and implemented application layer and back-end for a sales tracking tool 
+* Application layer, written in VBA, using SQL statements and stored procedures to manipulate the database 
+* Database layer, using a combination of Access and Microsoft SQL Server 
+* Environment includes Access, VBA, SQL, Windows NT, Windows 2000. 
+Justtalk, Inc
+Senior Software Engineer, August '00 - June '01
+*  Developer for JustSync 
+* Designed and implemented a 3-tier application to synchronize Microsoft Outlook and JustTalk databases 
+* Client layer, written in Javascript and VBScript, using CDO for Outlook functionality 
+* Application layer, written in Java, communicating via XML/SOAP to client and EJB to the database, running under Tomcat 
+* Database layer, written in Java, utilizing EJB, JDBC, and SQL, running under JBoss. 
+* Ported tools from Speechwise Calendar and Speechwise VEDA. 
+* Environment includes Java, Javascript, J2EE, EJB, JDBC, SQL, XML/SOAP, CDO, Tomcat, JBoss, linux, Windows NT, Windows 2000. 
+*  Developer for Speechwise Calendar and Speechwise VEDA 
+* Designed an Rapid Application Platform for speech/telephony applications. 
+* Platform independence from both OS and Voice Browser 
+* Implemented the vui front end, written in a combination of Java, J2EE, XML/VXML, and Python. 
+* Implemented a XML/VXML output library 
+* Implemented a Java adaptor for remote access to Microsoft Exchange Server. 
+* Implemented the underlying tools, including XML based application configuration, logging, and build. 
+* Designed and implemented SpeechObjects to provide higher level functionality for user tasks. 
+* Environment includes Java, Python, J2EE, XML/VXML, Nuance Speechobjects, Tomcat, linux, Windows NT, Windows 2000. 
+Carnegie Mellon University, Robotics Institute
+Software Engineer, July '97 - August '00
+* Primary Java and UI developer on OZONE, a reactive scheduler with a Java client interface. 
+* LISP developer for scheduler back-end 
+* Designed and implemented the client, written in Java and Swing. 
+* Designed and implemented socket communication layer. 
+* Designed and implemented adaptor and serialization code in both Java and LISP. 
+* Environment includes Java, Swing, LISP, PERL, Windows NT, Solaris, and GUI design. 
+Carnegie Mellon University, Engineering Research Design Center
+Research Programmer, May '96 - December '96
+* Expanded functionality of Simdesign, a rapid prototyping tool involving physically based modeling. 
+* Integrated new physics engine into the user interface. 
+* Code maintenance and bug fixes 
+* Environment included C, Solaris, Unix, gcc, make. 
