@@ -1,0 +1,29 @@
+Steven Lopes
+4589 Hanifan Lane
+Powder Springs, GA 30373
+(111)-235-5114
+[email]
+Objective Seeking an Entry Level Web Developer position in a reputed company where I can use my educational background to develop my skills.
+ACADEMIC QUALIFICATIONS
+B.S. in Computer Science, 2010
+Jacksonville University, Jacksonville, FL
+GPA Score 3.85/ 4.0
+Relevant Skills:
+* Excellent communication and presentation skills.
+* Sound knowledge of Windows, Vista, Linux, UNIX and Mac Operating System.
+* Proficiency with macromedia Dreamweaver and Microsoft Office.
+* Solid knowledge of XML integration.
+* Well-versed with database design and SQL using MySQL and MS Access.
+* In-depth knowledge of web programming languages such as HTML, CSS, Java, JavaScript, PHP, ASP and HTML editing software.
+Internship/Experience:
+Vertive, Austin, TX
+From Jan 2009 to May 2009
+Web Developer
+* Developed client and server database-applications.
+* Developed and maintained HTML/CSS templates.
+* Developed dynamic and online e-commerce applications.
+* Constructed the layout of a website.
+Awards/Honors/Certifications
+Leonard Pool Memorial Prize.
+PHP Certification
+
