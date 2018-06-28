@@ -1,6 +1,6 @@
 Scott Sauyet
 168 Boston Hill Road, Andover CT 06232
-scott@sauyet.com  ·  (860) 742-9800
+scott@sauyet.com  Â·  (860) 742-9800
  Objective
 Seeking a JavaScript design and coding position with some architectural and technical management responsibilities.
 
@@ -9,7 +9,7 @@ Founder of and major contributor to popular JavaScript functional programming li
  
  Professional Experience
 
-12/2017 – present, Cigna Insurance, Windsor, CT (Consulting through iTech)
+12/2017 â€“ present, Cigna Insurance, Windsor, CT (Consulting through iTech)
 Consultant
 
 * Built web applications for health-care providers.  Used Angular, Jasmine, Protractor, Ramda, Prettier, Pivotal Cloud Foundry, Urban Code Deploy, and GitLab.  Provided expertise to scrum team on Web technologies.
@@ -21,7 +21,7 @@ Consultant
 
 
 
-7/2010 – 7/2017, Travelers Insurance, Hartford, CT (Consultant, then employee)
+7/2010 â€“ 7/2017, Travelers Insurance, Hartford, CT (Consultant, then employee)
 Senior Software Engineer
 
 * Built several web applications for user policy self-service.  Used Angular, Mocha, Ramda, es-lint, Pivotal Cloud Foundry, Urban Code Deploy, and Jenkins.
@@ -34,12 +34,12 @@ Senior Software Engineer
 
 * Created an internal web framework similar in scope to Angular.js, but closer in design to Knockout.js.  This sophisticated framework grew up at the same time as Backbone and Spine, but went well beyond their capabilities.
 
-* Formed and lead a group of 5 – 20 advanced JavaScript developers, interviewing, training, and mentoring.  Formed JavaScript standards for the organization.  Developed a JavaScript tool-chain for end-to-end JavaScript development within the company.  Created and ran a company-wide JavaScript users group.
+* Formed and lead a group of 5 â€“ 20 advanced JavaScript developers, interviewing, training, and mentoring.  Formed JavaScript standards for the organization.  Developed a JavaScript tool-chain for end-to-end JavaScript development within the company.  Created and ran a company-wide JavaScript users group.
 
 * Coached an offshore team, traveling overseas several times to train them in our systems.
 
  
- 6/2009– 7/2010, ESPN, Bristol, CT (Consultant, then employee)
+ 6/2009â€“ 7/2010, ESPN, Bristol, CT (Consultant, then employee)
  Senior Application Developer
 
 * Contributed to large media management system, working on middle-tier and back-end systems.  Designed and built caching subsystem using JBoss and Hibernate.  Designed inter-database replication system.
@@ -49,7 +49,7 @@ Senior Software Engineer
 * Designed and built document tracking/workflow system with HTML, CSS and JavaScript,  using jQuery, JSON, and a REST architecture. 
 
 
- 7/2008– 4/2009, Aetna, Middletown, CT (Consultant)
+ 7/2008â€“ 4/2009, Aetna, Middletown, CT (Consultant)
  Senior Application Developer
 
 * Contributed to large application giving complete view of member health data.
@@ -58,13 +58,13 @@ Senior Software Engineer
 
 * Built data access subsystems using Hibernate and Spring against stored procedures on a DB2 database.
 
-2/2008– 7/2008, IFX Forum, Wakefield, MA
+2/2008â€“ 7/2008, IFX Forum, Wakefield, MA
 Consultant
 
 * Built web-based maintenance application to maintain complex specification documents.  Used jQuery, Wicket, and iBatis against a MySQL database.
 
 
-3/2007– 1/2008, Tickets.com, Meriden, CT
+3/2007â€“ 1/2008, Tickets.com, Meriden, CT
 Senior Software Engineer
 
 
@@ -73,30 +73,30 @@ Senior Software Engineer
 * Designed and developed custom Java e-commerce web application, to sell tickets directly to consumers.  Used Wicket, Axis, and Jaxen.  Designed standards-compliant web pages in HTML, CSS, and Javascript, using jQuery.  Created Ant build scripts, JUnit tests and CruiseControl tasks to manage project.  Mentored and managed junior programmer in these technologies.
 
 
-7/2005 – 1/2007, Andrews Consulting, Cheshire, CT
+7/2005 â€“ 1/2007, Andrews Consulting, Cheshire, CT
 Consultant
 
 * Developed browser-based Java Server Faces front-end to an AS/400 system.  Designed and developed a REST-ful style Web Services layer to interface with a RPG and DB2 system, and an AJAX front end.  Used Java, HTML, CSS, and the JavaScript libraries Prototype and Rico.
 
 * Designed and built a user discussion portlet to work inside Plumtree Portal.  Exposed the interface through a push to Blackberry users.  Used MySQL, JForum and plain XML web services.
 
-* Built one-stop package tracking system consuming shippers’ XML feeds and converting them to a single standard HTML format.  Used Java and XSLT.
+* Built one-stop package tracking system consuming shippersâ€™ XML feeds and converting them to a single standard HTML format.  Used Java and XSLT.
 
-3/2005 – 7/2005, Pilotfish Technology, Wethersfield, CT
+3/2005 â€“ 7/2005, Pilotfish Technology, Wethersfield, CT
 Solutions Architect
 
 * Contributed to development of Enterprise Application Integration (EAI) software and used it to convert proprietary data formats to and from ACORD insurance standard XML formats.  Involved working with DB2, Oracle, MySQL, and SqlServer databases.  Exposed various capabilities as Web Services using SOAP/WSDL.  Enhanced small servlet-based front-end and larger Swing interface to system.   Deployed on Tomcat, JBoss, WebSphere, and WebLogic.  Used Ant, JUnit, Subversion, and Trac in the development environment.
 
 * Developed thin-client Customer Relation Management (CRM) system in Java using Spring, Hibernate, and Tapestry.  Used Java 1.5 annotations and generics, developed with Ant, JUnit, Subversion, and Mantis.
 
-4/2004 – 3/2005, Personix, Manchester, CT
+4/2004 â€“ 3/2005, Personix, Manchester, CT
 Senior Programmer
 
 * Developed Java Web Services to convert documents between HTML and a proprietary print language.  Developed JavaScript WYSIWYG editor to edit HTML documents online.  Connected these to ASP-based content management system.  Used JMS, Apache Axis, and Java XML APIs as well as SqlServer, Visual Basic, and ASP.   Worked with Ant, JUnit, Visual Source Safe, and eRoom.
 
 * Developed Java Web Service to convert documents to Adobe PDF format. Connected this service to ASP front end.  Used Apache Axis, FOP, and JMS.
 
-3/1998 – 4/2004, DST Output, South Windsor, CT
+3/1998 â€“ 4/2004, DST Output, South Windsor, CT
 Senior Systems Analyst
 
 * Leader of a team of three building an XML-flat file conversion system.  Used an XML file mapping the fields of a COBOL copybook to fields in an XML Schema, a Swing GUI to create those parts of the mapping which cannot be automatically generated or which the user wants to override, and conversion routines using this mapping to transform XML documents to and from COBOL-style flat files.  Written entirely in Java using both SAX and DOM XML processing.  Used Ant, ArgoUML, JUnit, PVCS, Microfocus, and a home-grown bug-tracking wiki.
@@ -124,7 +124,7 @@ Professional programmer with strong Javascript, Java, and web skills.  Excellent
 
 * Deployment:  Have used Tomcat, JBoss, WebSphere, WebLogic, and Glassfish.  On the Javascript side have used Node.js and a custom server built on Rhino.  Deployed to Docker (with and without Kubernetes)  and to Pivotal Cloud Foundry
 
-* Development:  Strong skills with Ant and Junit, with NPM, Grunt, and Gulp as well as Jasmine and Mocha..  Some experience with DBUnit, Canoo WebTest, and HttpUnit.  Have used most of the major IDEs, and many other developers’ tools, although still mostly code in text editors.
+* Development:  Strong skills with Ant and Junit, with NPM, Grunt, and Gulp as well as Jasmine and Mocha..  Some experience with DBUnit, Canoo WebTest, and HttpUnit.  Have used most of the major IDEs, and many other developersâ€™ tools, although still mostly code in text editors.
 
 * Languages:  Most of my recent work has been in JavaScript, and before that in Java.  Longer ago, I have used COBOL, C / C++, JCL, Pascal, Perl, PHP, Python, Rexx, Ruby, and Visual Basic.  I have also done small side projects in Scheme, Haskell, and Clojure, and am learning some F#.
 
@@ -132,7 +132,7 @@ Professional programmer with strong Javascript, Java, and web skills.  Excellent
 
 * Architecture and Design:  Have designed small to mid-sized systems, and integrated larger ones out of existing pieces.  Worked with large, heterogeneous, distributed teams on design.  Comfortable with the UML and design documentation.
 
-* Project Management:  Have managed teams of three to ten developers on all technical aspects of a project from requirements gathering through design, development, deployment, and support.  Skilled in analyzing a team’s strengths, and motivating developers.  No pure management experience.
+* Project Management:  Have managed teams of three to ten developers on all technical aspects of a project from requirements gathering through design, development, deployment, and support.  Skilled in analyzing a teamâ€™s strengths, and motivating developers.  No pure management experience.
 
 * Communications:  Excellent writing skills.  Open, communicative, and friendly.  Willing to work as a member of a team or to take on leadership roles.
 
@@ -157,7 +157,10 @@ Minor in religion.  GPA: 3.5 overall, 4.0 in math
 The most recent and complete version of this resume is at http://scott.sauyet.com/resume/
 References are available upon request.
 
-Scott Sauyet’s ResumePage 1 of 6
+
+Scott Sauyetâ€™s Resume
+Page 1 of 6
+
 
 
 
