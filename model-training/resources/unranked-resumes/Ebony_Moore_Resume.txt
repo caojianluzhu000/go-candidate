@@ -1,0 +1,41 @@
+Ebony Moore
+* Denver, CO
+* (123) 456-7891
+* emoore@email.com
+SUMMARY
+Creative Senior Front-end Developer with 15+ years of experience leveraging JavaScript to build responsive websites, mobile apps, and interactive features that drive business growth and improve UX.
+EDUCATION
+* GREEN VALLEY STATE
+* Aug '99
+* May '03
+* Bachelor of Science in Computer Science
+EXPERIENCE
+* RIVER TECH
+* Senior Front-end Developer
+* Aug '12
+* Current
+* 
+* Develop new UI functionality for multithreaded user-facing applications running on touchscreen devices, using AngularJS
+* Spearheaded redesign of company’s flagship mobile app, which increased downloads by 28% in less than 6 months
+* Increased email signups 12% by creating new UI for website landing page in React
+* RETAIL OCEAN
+* Front-end Developer
+* Dec '07
+* Jun '12
+* 
+* Built single-page applications with JavaScript on a custom-built framework
+* Leveraged AngularJS and JavaScript to build presentation layer for retail payment page
+* Developed and maintained critical components of e-commerce website, including shopping cart, quick view, and checkout page, using React components
+* TRADELOT
+* Front-end Developer
+* May '03
+* Nov '07
+* 
+* Architected, designed, and developed intranet applications in Visual Studio 2005, using JavaScript
+* Introduced wireframing and information architecture concepts to increase team productivity
+* Created front-end prototype for a medical billing web platform that won company’s Most Innovative award in 2007
+SKILLS
+* Expert in HTML/CSS, JavaScript, jQuery, AngularJS, React
+* Knowledge of Python, Ruby, SQL, C#
+* Adobe Creative Suite (Photoshop, InDesign, Illustrator)
+
