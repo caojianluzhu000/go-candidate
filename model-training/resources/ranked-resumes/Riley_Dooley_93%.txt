@@ -1,15 +1,15 @@
-Riley 
+RileyÂ 
 Dooley
-173 Marcella Turnpike 
-Boston 
-MA 
- 
+173 Marcella TurnpikeÂ 
+BostonÂ 
+MAÂ 
+Â 
 Phone
- +1 (555) 155 0049
+Â +1 (555) 155 0049
 EXPERIENCE
 Boston, MA
 LEAD JAVASCRIPT ENGINEER
-12/2013 – present
+12/2013 â€“ present
 * Provide oversight through code and design reviews for features delivered by other developers within the Aura engineering team
 * Develop front-end and UI development across multiple product sets
 * Work with vendor platforms and advertising networks
@@ -19,7 +19,7 @@ LEAD JAVASCRIPT ENGINEER
 * Development of one page applications using Node, Angular, Bower, Grunt, Karma, etc. and ensure concepts are delivered accordingly
 Boston, MA
 FULL STACK JAVA JAVASCRIPT ENGINEER
-10/2006 – 10/2013
+10/2006 â€“ 10/2013
 * Actively participate as part of a team of engineers responsible for the Skyward Software Platform including Web, Mobile, and Services
 * Participate in product specifications through rapid iterative prototyping and UI simulations in code with live data
 * Use JavaScript, jQuery, Angularjs, CSS3, HTML5, and explore other cutting-edge technologies to create new features/functionalities
@@ -29,7 +29,7 @@ FULL STACK JAVA JAVASCRIPT ENGINEER
 * Keep abreast of technology trends and best practices
 Phoenix, AZ
 JAVASCRIPT ENGINEER
-03/2002 – 07/2006
+03/2002 â€“ 07/2006
 * Work closely with a team of engineers in an agile development environment to create full, working, enterprise-scale web service applications
 * Works within established procedures and tools to develop, test, and validate security features and code review
 * Work with JavaScript frameworks (ReactJS and AngularJS) to connect between our APIs and our front end web interfaces
@@ -38,13 +38,13 @@ JAVASCRIPT ENGINEER
 * Collaborate with other programmers and developers throughout the development process
 * Participate in various Agile rituals and provide process improvement feedback
 EDUCATION
-Bachelor’s Degree in Computer Science
+Bachelorâ€™s Degree in Computer Science
 WEBSTER UNIVERSITY
 SKILLS
 * Be able to demonstrate a strong understanding of Design Patterns
 * Ability to quickly learn new technologies and adapt to a growing and evolving team environment
 * Develop a highly available and performant processing engine
-* Base knowledge of the W3C’s Web Content Accessibility Guidelines v2.0
+* Base knowledge of the W3Câ€™s Web Content Accessibility Guidelines v2.0
 * Proficient understanding of code versioning tools, such as git
 * Proficient understanding of cross-browser compatibility issues and ways to work around such issues
 * Ability to communicate effectively
