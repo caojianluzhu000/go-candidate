@@ -7,6 +7,7 @@ import re
 keywords_file_name = "keywords.txt"
 csv_file = "resume_data.csv"
 
+
 class resume_preprocessing:
     # HELPER FUNCTION
     # returns an array with the number of times a keyword is found in resume_words
@@ -18,7 +19,6 @@ class resume_preprocessing:
             match_count.append(resume_words.count(keywords[i]))
         return match_count
 
-
     # MAIN FUNCTION
     def preprocess(resume_directory):
         # read keywords from a file into a list
@@ -26,13 +26,12 @@ class resume_preprocessing:
             keywords = keywords_file.read()
         keywords = keywords.split()
 
-
         # create csv file to store data
-        csv_file_obj= open(csv_file, 'w')
-        csv_writer=csv.writer(csv_file_obj, delimiter=',')
-        row=["Index", "Score"]
+        csv_file_obj = open(csv_file, 'w')
+        csv_writer = csv.writer(csv_file_obj, delimiter=',')
+        row = ["Index", "Score"]
         for i in range(len(keywords)):
-            row.append("Keyword" + str(i+1))
+            row.append("Keyword" + str(i + 1))
         csv_writer.writerow(row)
 
         index = 1
@@ -46,22 +45,10 @@ class resume_preprocessing:
                 print(str(resume) + " " + score)
                 # find number of occurences of keywords in the resume
                 key_match_count = count_matching_keywords(keywords, resume_words)
-                #resume_list.append({'file_name': str(resume), 'word_list': resume_words, 'score' : score, 'keywords_match_count': key_match_count})
+                # resume_list.append({'file_name': str(resume), 'word_list': resume_words, 'score' : score, 'keywords_match_count': key_match_count})
                 csv_writer.writerow([index] + [score] + key_match_count)
-            index+=1
-
+            index += 1
 
         csv_file_obj.close()
         print('Done.')
         return
-
-
-
-
-
-
-
-
-
-
-
