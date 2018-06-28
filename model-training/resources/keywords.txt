@@ -1,3 +1,20 @@
 javascript
 html
 css
+HTML
+jQuery
+Java Script
+CSS
+AJAX
+DHTML
+XHTML
+.NET
+Angular
+React
+Redux
+Vue
+Intuitive
+Babel
+6to5
+Chart
+Moment
