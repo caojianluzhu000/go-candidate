@@ -1,15 +1,15 @@
-Lacey 
+LaceyÂ 
 Wintheiser
-75279 Filiberto Lodge 
-Boston 
-MA 
- 
+75279 Filiberto LodgeÂ 
+BostonÂ 
+MAÂ 
+Â 
 Phone
- +1 (555) 231 3748
+Â +1 (555) 231 3748
 EXPERIENCE
 Los Angeles, CA
 ENTRY MID LEVEL JAVA DEVELOPER
-03/2015 – present
+03/2015 â€“ present
 * Owning user stories writing code, designing
 * One or more of Cassandra, Redis, MongoDB, aerospike, RocksDB
 * Code, design, test, review. 60% of the day will be coding
@@ -19,7 +19,7 @@ ENTRY MID LEVEL JAVA DEVELOPER
 * Prepare program specifications and diagrams, and develops logic flowcharts
 Los Angeles, CA
 JAVA DEVELOPER, ENTRY LEVEL
-09/2011 – 09/2014
+09/2011 â€“ 09/2014
 * Develop, test, implement and maintain application software working with established processes
 * Perform code review and identify functional gaps in end-to-end application development life cycle
 * Design, implement and maintain Java application within all phases of the Software Development Life Cycle (SDLC)
@@ -29,16 +29,16 @@ JAVA DEVELOPER, ENTRY LEVEL
 * Identify opportunities to fine-tune and optimize applications of Java web services developed projects
 Los Angeles, CA
 ENTRY LEVEL JAVA DEVELOPER
-03/2005 – 04/2011
+03/2005 â€“ 04/2011
 * Develop programs in languages, Tools and Databases such as Java, Java Script, SQL Server
 * Develop application program logic from customer-defined specifications
 * Design, develop, code, test, debug, document and install programs
-* Learn about our clients’ businesses to provide the best solutions
+* Learn about our clientsâ€™ businesses to provide the best solutions
 * Knowledge of some source control concepts and tools such as Git, SVN, or other equivalents
 * Solid CS fundamentals: OOP, data structures, design patterns, etc
 * Translate functional specifications into logical, component-based technical designs, and estimate the level of effort to implement your design
 EDUCATION
-Bachelor’s Degree in Computer Science
+Bachelorâ€™s Degree in Computer Science
 UNIVERSITY OF CALIFORNIA, BERKELEY
 SKILLS
 * Familiarity with advanced standards WS-I Basic Profile, WS- standards
