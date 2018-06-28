@@ -10,12 +10,14 @@
 # save_to_file(regr.coef_, "coefficients.txt")
 #
 import pickle
-
+import resume_preprocessing
 
 filename = "../model/finalized_model.sav"
 # load the model from disk
 loaded_model = pickle.load(open(filename, 'rb'))
 
-loaded_model.predict()
+input = resume_preprocessing.preprocess("../resources/resumes-to-predict")
 
-result = loaded_model.score(X_test, Y_test)
+y = loaded_model.predict(input)
+
+print(y)
