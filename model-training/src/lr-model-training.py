@@ -1,10 +1,9 @@
 print(__doc__)
 
-import matplotlib.pyplot as plt
-import numpy as np
-from sklearn import linear_model
-import pandas as pd
 import pickle
+
+import pandas as pd
+from sklearn import linear_model
 
 def read_csv(path):
     return pd.read_csv("../resources/" + path, sep=',')
@@ -16,6 +15,8 @@ def save_to_file(data, file_name):
 
 
 # Load the dataset
+
+
 resumes = read_csv('resume_data.csv').values
 
 # Split the data into training/testing sets
