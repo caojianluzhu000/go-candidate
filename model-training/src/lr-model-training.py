@@ -7,7 +7,7 @@ import pandas as pd
 import pickle
 
 def read_csv(path):
-    return pd.read_csv("../resources/" + path, sep=',', header=None)
+    return pd.read_csv("../resources/" + path, sep=',')
 
 
 def save_to_file(data, file_name):
@@ -19,11 +19,11 @@ def save_to_file(data, file_name):
 resumes = read_csv('resume_data.csv').values
 
 # Split the data into training/testing sets
-resumes_X_train = resumes[:, :-1]
+resumes_X_train = resumes[:, 2:]
 resumes_X_test = resumes_X_train
 
 # Split the targets into training/testing sets
-resumes_y_train = resumes[:, -1]
+resumes_y_train = resumes[:, 1]
 resumes_y_test = resumes_y_train
 
 # Create linear regression object
