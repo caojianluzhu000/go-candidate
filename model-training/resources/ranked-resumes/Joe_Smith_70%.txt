@@ -1,73 +1,0 @@
-Joe Smith
-Summary:
-* Around 5 years of experience on Cross Platform Web/Client-Server applications design and development using Java, J2EE and application server technologies.
-* Expertise in Core Java concepts such as Multi-Threading, Generics, Exception Handling, Collections Framework, etc.
-* Strong front-end UI development skills using scripting languages like HTML5, CSS3, JavaScript, JQuery, AJAX, JSON, Ext Js, Angular Js, DOM, JSP, JQuery Plug-ins.
-* Expertise in Advanced JavaScript libraries and frameworks such as Prototype, Ext Js, Angular Js, and Object oriented programing in JS.
-* Extensive experience in Cross-browser HTML, CSS JavaScript coding to offer responsive website layouts to modern browsers and mobile devices.
-* Extensive experience with CSS3 and leveraging best practices, modifications of existing CSS files to enhance the user experience.
-* Intermediate experience with Advanced JavaScript including prototype-based inheritance, AJAX, JSON and familiar with JavaScript frameworks such as, JQuery and JQuery-UI.
-* Experience in major web applications servers, including Apache Tomcat, Jboss and WebLogic.
-* Deep understanding in design, development and implementation of Model-View-Controller frame works using Struts and Spring MVC.
-* Experience in J2EE Software Development Life Cycle SDLC of Business applications in web and client-server environment with JSP, Servlet, AJAX, JDBC, XML, JavaMail, Log4j and Web Services like Soap and Restful.
-* Strong experience with Oracle, PL/SQL, MySQL, SQL Server concepts.
-* Expertise in DB Design, DB normalization and writing SQL queries PL/SQL- Stored Procedures, Functions, Triggers, Sequences, Indexes and Views, etc.
-* Good knowledge in design understanding the application using UML Data flow diagrams.
-* Performed unit testing using JUnit test cases, Integration and deployment of applications using build tools like ANT and Maven and debugging through log4j.
-* Worked on multiple domains like Financial, Travel, and Health care industries.
-* Worked in Scrum, an Agile methodology for software development.
-TECHNICAL SKILLS:
-Programming LanguageJava, JavaScript, HTML5, CSS3, SQLWeb TechnologyjQuery, AJAX, JSON, Ext js, Angular js, Prototype, flash, SASSJ2EE TechnologyJSP 2.x, Servlet 2.x, Spring 2.x/3.x, Spring MVC, Struts 2, Hibernate 3.x, JDBC, JavaMail, EJBWeb Application ServerApache Tomcat 6.0, JBoss, SOAP, RESTDatabasesOracle 10g/9i, PL/SQL, MySQL, ToadDebugging and logging toolsJUnit, Log4jOperation SystemWindows 7/XP/2000, Linux UbuntuOthersEclipse, Maven, AgileProfessional Experience:
-Java/JavaScript Developer
-Confidential
-Responsibilities:
-* Attended daily Scrum meetings, kept up-to-date on best practices for JavaScript frameworks and techniques.
-* Worked closely with Business teams on aligning business requirements with technical ones.
-* Designed and implement front-end projects of various scope.
-* Built and maintain the presentation layer of Hotwires site.
-* Strict adherence to W3C standards and cross browser compatibilities.
-* Designed and implemented multiple new features in hotwire.com related to Hotel Room search and purchase using AJAX, JQuery, Angular JS, CSS3 and HTML5.
-* Worked with JQuery Plugins to improve user experience, using DataTable, Data Charts to show the amount, availability of the hotel room left.
-* Worked on different projects for redesign development of various parts of hotwire web site Hotel Search Results page Hotel Billing path using Spring MVC.
-* Used jQuery to navigate to different pages of the application using DOM elements, and to create AJAX pages
-* Implemented JQuery validation plug-in, modified JQuery validation plug-in to support custom validation, JQuery modal box, JQuery date picker, JQuery tooltip.
-* Used Ajax in JSON format for asynchronous request handling and partial refreshing by the user.
-* Used Google static map API for maps.
-* Used Maven to create build file and does Unit testing by creating Test Suites using JUnit Framework.
-* Used log4j to monitor the Error Logs.
-Environment: JavaScript, HTML5, CSS3, JQuery, AJAX, JSON, Apache Tiles, JSP, Spring MVC, JUnit, Maven, log4j, Yahoo UI Library, SASS, Hibernate, jQuery, Angular JS, Google Maps API.
-Java/JavaScript Developer, Confidential
-Responsibilities:
-* Attended daily Scrum meetings, kept up-to-date on best practices for JavaScript frameworks and techniques.
-* Used Pagination component of jQuery for navigation and used DOM and AJAX to display page contents.
-* Designed user interface for the product of gift card using Angular JS, jQuery, CSS3, HTML5 and JavaScript.
-* Handled Browser compatibility issues for different browsers related to CSS and HTML.
-* Used CSS3 Borders and jQuery Menus as part of the UI navigation.
-* Produced client side validation through JavaScript and Ajax for asynchronous communication.
-* Created interface to manage user menu using JS, Angular JS and JQuery.
-* Used JQuery event handling in UI pages to display list boxes and to handle validations.
-* Involved in development of front-end components using Spring MVC, JSP, JavaScript, JAVA, and JSON.
-* Developed JUnit test cases for all the developed modules.
-* Worked with business analysts to draft, revise and refine the business requirements developed test cases and performed unit testing using JUnit.
-Environment: Java/J2EE, Spring MVC, Hibernate, JQuery, Angular JS, AJAX, ExtJS, CSS3, JavaScript, Oracle, PL/SQL, REST, Eclipse, WebLogic, JUnit, Agile UML, JSPs, JSTL, Servlets.
-JAVA/J2EE Developer, Confidential
-Responsibilities:
-* Designed User Interfaces using JSP and HTML.
-* Responsible for validation of Client Interface HTML pages using JavaScript and JQuery.
-* Developed front-end screens and server side scripts using HTML, DHTML, CSS and JSP.
-* Developed the application based on MVC architecture using Struts Framework, designed Action Classes, Form Beans.
-* Developed Struts action classes, forms and JSP pages with struts tags, validation, struts-tiles and modifying Struts-Config files and implemented file upload functionality for large amount of data.
-* Used ORACLE for back end database access and caching.
-* Used JDBC API to establish connection between Java and Database.
-* Involved in configuring JDBC connection pooling to access the database server.
-Environment: Java, J2EE, Servlets, HTML, Struts, PL-SQL, WebSphere Application Server, Rational Rose, UML, XML, Oracle, Log4j.
-Java Developer, Confidential
-Responsibilities:
-* Created Class and Sequence Diagrams for assigned modules under the mentorship of senior developers on the team.
-* Coded assigned modules using leading Java frameworks Struts and using industry standard tools Eclipse
-* Handled creation and parsing of XML Documents using SAX Parser.
-* Created System Test Cases and Unit Test Cases for assigned modules.
-* Created new ANT build scripts under supervision of senior developers to package the application code into a deployment format.
-Environment: Sun Solaris, Windows XP, Oracle 9i Database, J2EE, JSP, JavaScript, Struts, WebLogic, JDBC, HTML, Java, XML, Ant, Eclipse, MS Visio 2005, Rational Rose, UML
-o
-
