@@ -16,7 +16,7 @@ EXPERIENCE
 * Current
 * 
 * Develop new UI functionality for multithreaded user-facing applications running on touchscreen devices, using AngularJS
-* Spearheaded redesign of company’s flagship mobile app, which increased downloads by 28% in less than 6 months
+* Spearheaded redesign of companyâ€™s flagship mobile app, which increased downloads by 28% in less than 6 months
 * Increased email signups 12% by creating new UI for website landing page in React
 * RETAIL OCEAN
 * Front-end Developer
@@ -33,9 +33,10 @@ EXPERIENCE
 * 
 * Architected, designed, and developed intranet applications in Visual Studio 2005, using JavaScript
 * Introduced wireframing and information architecture concepts to increase team productivity
-* Created front-end prototype for a medical billing web platform that won company’s Most Innovative award in 2007
+* Created front-end prototype for a medical billing web platform that won companyâ€™s Most Innovative award in 2007
 SKILLS
 * Expert in HTML/CSS, JavaScript, jQuery, AngularJS, React
 * Knowledge of Python, Ruby, SQL, C#
 * Adobe Creative Suite (Photoshop, InDesign, Illustrator)
+
 
