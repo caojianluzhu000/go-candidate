@@ -16,7 +16,7 @@ def save_to_file(data, file_name):
 
 
 # Load the dataset
-resumes = read_csv('samplescores.csv').values
+resumes = read_csv('resume_data.csv').values
 
 # Split the data into training/testing sets
 resumes_X_train = resumes[:, :-1]
