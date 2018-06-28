@@ -1,11 +1,11 @@
 Resume
 GoPro, Inc. Software Engineering Manager
-June 2015 ñ Current
+June 2015 ‚Äì Current
 San Francisco / San Mateo, CA
 Web-Applications team:
 * Built 5 new web applications using React, Node, and Sass and deployed them in less than a year
 * New login application which supports single-sign-on within GoPro, and login via Facebook or Google
-* Created a web application framework called ìweb baseî, allows spinning up a completely new application within 10 minutes
+* Created a web application framework called ‚Äúweb base‚Äù, allows spinning up a completely new application within 10 minutes
 * Improved the team velocity from 20pts per sprint to 180pts at full capacity in less than a year
 * Led a company wide initiative to use Docker to run and deploy web applications and services
 * Deployed up to 100 times a day
@@ -23,18 +23,18 @@ GoPro.com Web-site team:
 * Managed 7 remote employees
 * Implemented the scrum agile and code review process for higher quality completed code
 Misc:
-* Gave 2 talks on the GoPro web application architecture; where we started, what we use, problems weíve had and how weíve solved them
-†
-PlayHaven, Inc. ñ Front-end software engineer
-January 2013 ñ July 2013
+* Gave 2 talks on the GoPro web application architecture; where we started, what we use, problems we‚Äôve had and how we‚Äôve solved them
+¬†
+PlayHaven, Inc. ‚Äì Front-end software engineer
+January 2013 ‚Äì July 2013
 San Francisco, CA
-I worked and built out PlayHavenís Advertiser Dashboard, using the Backbone.js MVC framework that connects†to internal and public RESTful APIís. My daily tasks included; developing new features, fixing bugs, and leading teams to bring together design, QA and development.
-Clients include:†EA, Glu, Sega, Disney, Nickelodeon and Halfbrick.
+I worked and built out PlayHaven‚Äôs Advertiser Dashboard, using the Backbone.js MVC framework that connects¬†to internal and public RESTful API‚Äôs. My daily tasks included; developing new features, fixing bugs, and leading teams to bring together design, QA and development.
+Clients include:¬†EA, Glu, Sega, Disney, Nickelodeon and Halfbrick.
 Responsibilities:
 * Developing customer facing software for managing advertisements within games using Backbone.js, JavaScript / jQuery, Handlebars.js, Require.js, Highcharts, HTML, and Sass
-* Multi-browser and platform development ñ IE 8+, Firefox 20+, Chrome 24+, Safari 5+
+* Multi-browser and platform development ‚Äì IE 8+, Firefox 20+, Chrome 24+, Safari 5+
 * Increase accuracy of implemented design by training all front-end developers to use Photoshop
-* Prototyping new features and ideas ñ Google Drive Drawing, Photoshop, HTML, Sass, and D3.js
+* Prototyping new features and ideas ‚Äì Google Drive Drawing, Photoshop, HTML, Sass, and D3.js
 * Setup Jasmine and Selenium/IDE for unit and functional testing
 * Setup continuous integrated unit testing using Jasmine, Yeti, Bunyip, Browserstack API and Phantom.js
 * Increase front-end development by 10% by using Require.js, Jasmine and documentation
@@ -42,72 +42,72 @@ Responsibilities:
 * Team training on Ember.js, Backbone.js, Jasmine.js and Selenium IDE
 * Setup documentation and style guide for advertiser dashboard using Github wiki pages and markdown
 * Setup framework for all current and future front-end projects to use Backbone.js, Handlebars.js, Require.js and Jasmine for framework, organized module definitions and unit tests
-†
-Tigerlogic, Inc. ñ Lead front-end software engineer
-February 2011 ñ January 2013
+¬†
+Tigerlogic, Inc. ‚Äì Lead front-end software engineer
+February 2011 ‚Äì January 2013
 Portland, OR
 I was the lead front-end developer for a social media product called Postano, which is built upon RESTful APIs like Facebook, Twitter, Google+, and Pinterest (14+ total). I was also in charge of building a secondary product to Postano called Postano moderation, which allowed users to moderate / manage social media content in real-time before pushing it live.
-Clients include:†Dell, Nine West, SXSW, Oregon Ducks, and New York: Social Media Week.
+Clients include:¬†Dell, Nine West, SXSW, Oregon Ducks, and New York: Social Media Week.
 Responsibilities:
-* Product development ñ HTML, CSS, JavaScript / jQuery, PHP, MySQL, qUnit
-* User interface design ñ Photoshop, Fireworks, Illustrator
+* Product development ‚Äì HTML, CSS, JavaScript / jQuery, PHP, MySQL, qUnit
+* User interface design ‚Äì Photoshop, Fireworks, Illustrator
 * Wireframing and prototyping new features with Balsamiq, Google Drive Drawing
-* Developed embeddable widgets ñ using iFrames, PHP, JavaScript, HTML and CSS
+* Developed embeddable widgets ‚Äì using iFrames, PHP, JavaScript, HTML and CSS
 * Built responsive and adaptive websites and templates for our Postano embeddable widget using HTML, CSS and JavaScript
-* Multi-browser and platform development ñ IE6-10, Firefox 3.6+, Chrome 14+, Safari 4+, Safari Mobile iOS 4+, Android stock browser Android 3.2+, Chrome for Android and iOS
+* Multi-browser and platform development ‚Äì IE6-10, Firefox 3.6+, Chrome 14+, Safari 4+, Safari Mobile iOS 4+, Android stock browser Android 3.2+, Chrome for Android and iOS
 * Created documentation for Postano, both internal and external using a wiki and markdown
 * Developed ways to improve usability with flow diagrams and paper mockups
 * Came up with creative solutions to complicated bugs
-†
-Heka Interactive, LLC. ñ Owner, software engineer, and designer
-September 2004 ñ Current
+¬†
+Heka Interactive, LLC. ‚Äì Owner, software engineer, and designer
+September 2004 ‚Äì Current
 Portland, OR
 I personally work with clients to create custom websites and software products that are tailored to meet their needs. In the process, I strive to implement new web techniques and practices to help improve the web experience for the client and their users.
-Clients include:†Apple, Budweiser, Rose Quarter coliseum, Leopold Ketel & Partners, and Unboxed Lives.
+Clients include:¬†Apple, Budweiser, Rose Quarter coliseum, Leopold Ketel & Partners, and Unboxed Lives.
 Responsibilities:
 * Full-stack software engineer
-* Responsive and adaptive development ñ Desktop, TVís, Tablet and phones
-* Multi-platform development ñ Windows, Mac, Linux, Android and iOS
-* UX design wireframing and usability ñ Balsamiq, Google Drive Drawing, and Fireworks
-* Unit / functional testing ñ qUnit, Jasmine, Selenium and iMacro
-* HTML email development ñ HTML, CSS, MailChimp, Constant Contact
-* Consultation work ñ Speed optimizations, image compression, browser testing, documentation
-* Animated banner ads ñ Adobe Flash and Photoshop
+* Responsive and adaptive development ‚Äì Desktop, TV‚Äôs, Tablet and phones
+* Multi-platform development ‚Äì Windows, Mac, Linux, Android and iOS
+* UX design wireframing and usability ‚Äì Balsamiq, Google Drive Drawing, and Fireworks
+* Unit / functional testing ‚Äì qUnit, Jasmine, Selenium and iMacro
+* HTML email development ‚Äì HTML, CSS, MailChimp, Constant Contact
+* Consultation work ‚Äì Speed optimizations, image compression, browser testing, documentation
+* Animated banner ads ‚Äì Adobe Flash and Photoshop
 * Created websites built using WordPress, Joomla, Drupal, PHP, HTML, CSS and JavaScript
 * Built e-commerce websites using Magento, PHP, XML, JavaScript, HTML, and Sass
-* Created custom employee shift tracking / management software ñ PHP, MySQL, HTML, CSS
-* DVD and splash page intros ñ 3D modeling and Animation in Maya, Flash, Adobe Premiere, Adobe After Effects
-* Search Engine Optimization ñ Google webmaster tools, Google Analytics, WebTrends analytics, Google PageSpeed
+* Created custom employee shift tracking / management software ‚Äì PHP, MySQL, HTML, CSS
+* DVD and splash page intros ‚Äì 3D modeling and Animation in Maya, Flash, Adobe Premiere, Adobe After Effects
+* Search Engine Optimization ‚Äì Google webmaster tools, Google Analytics, WebTrends analytics, Google PageSpeed
 * Created an internal browser based text editor using HTML, CSS, JavaScript, Require.js, Backbone, handlebars, Jasmine, Selenium
-* Created an internal RESTful APIís for browser based text editor using laravel
+* Created an internal RESTful API‚Äôs for browser based text editor using laravel
 * Created various open source projects which can be found on Github
-†
-Markee Dragon, Inc. ñ Lead developer / web manager
-October 2007 ñ May 2010
+¬†
+Markee Dragon, Inc. ‚Äì Lead developer / web manager
+October 2007 ‚Äì May 2010
 Portland, OR
 Developed high traffic social forums and multiple e-commerce websites focusing on usability, split testing, and search engine optimization, while managing a small development team.
 Responsibilities:
 * Lead developer of six
 * Built internal dashboard to manage all orders from the various stores
-* Systems administration ñ Linux CentOS, MySQL
-* Project manager ñ Mantis bug tracker, internal documentation, and key point of contact from external development company
+* Systems administration ‚Äì Linux CentOS, MySQL
+* Project manager ‚Äì Mantis bug tracker, internal documentation, and key point of contact from external development company
 * Functional and browser testing using iMacro, Selenium, and Selenium IDE
 * Split testing using both custom internal tool and Google Website Optimizer
-* Graphic design for shirts, banners, logos and website design ñ Photoshop, Illustrator, Fireworks and Google Docs Drawing
-* Search Engine Optimization and social media marketing ñ Google webmaster tools, Google Keyword tool, Blogs, Twitter, and Facebook
+* Graphic design for shirts, banners, logos and website design ‚Äì Photoshop, Illustrator, Fireworks and Google Docs Drawing
+* Search Engine Optimization and social media marketing ‚Äì Google webmaster tools, Google Keyword tool, Blogs, Twitter, and Facebook
 * Built custom advertising tool / store using PHP, MySQL, JavaScript, HTML, and CSS
-* Project research and setup ñ OCR scanner to text output for automated data entry to stores
-†
-Poly-Cast, Inc. ñ Document Control Specialist
-September 2005 ñ October 2007
+* Project research and setup ‚Äì OCR scanner to text output for automated data entry to stores
+¬†
+Poly-Cast, Inc. ‚Äì Document Control Specialist
+September 2005 ‚Äì October 2007
 Tigard, OR
-Created daily documentation to ensure products met or exceeded customerís specifications. Digitized important handwritten forms to enhance accuracy and productivity. This position was heavily reliant on being able to take initiative, self management, and always work towards accuracy.
+Created daily documentation to ensure products met or exceeded customer‚Äôs specifications. Digitized important handwritten forms to enhance accuracy and productivity. This position was heavily reliant on being able to take initiative, self management, and always work towards accuracy.
 Responsibilities:
-* Maintained quality control department ñ blueprints, handwritten, and digital documents
+* Maintained quality control department ‚Äì blueprints, handwritten, and digital documents
 * Electronic and hard copy file storage to meet ISO 9001-2000 compliance
 * Re-created, rewrote, and organized quality instruction manuals for over 300+ parts which led to a 1,100% decrease in time to use, increased development cycles and decreased costs
-* ISO 9001-2000 compliant / certified ñhttps://en.wikipedia.org/wiki/ISO_9000
-* New product introduction / training ñ Direct 1:1 training and documentation for every new part
+* ISO 9001-2000 compliant / certified ‚Äìhttps://en.wikipedia.org/wiki/ISO_9000
+* New product introduction / training ‚Äì Direct 1:1 training and documentation for every new part
 * Budget committee
 * Safety team
 Programming Languages:
@@ -127,7 +127,7 @@ Programming Languages:
 * ActionScript 2, 3 (Yes, I have been doing engineering this long)
 Skills
 * Full stack development
-* Agile ñ Scrum methodology
+* Agile ‚Äì Scrum methodology
 * User Experience
 * Wireframing
 * Unit Testing
@@ -197,7 +197,7 @@ Software:
 * Windows command prompt
 * Adobe Creative Suite
 * Microsoft Office
-Social media and RESTful APIís:
+Social media and RESTful API‚Äôs:
 * Facebook
 * Twitter
 * Google+
@@ -207,15 +207,15 @@ Social media and RESTful APIís:
 * Pinterest
 * Browserstack API
 * OAuth 2.0
-* Custom / Internal APIís
+* Custom / Internal API‚Äôs
 Interests:
 Learning about new web techniques, open source development, web standards, animation, movies, ancient history, coming up with new web products and ideas, mobile electronics, hiking, and BMX riding.
 Education:
 The Art Institute of Portland, Oregon: 2003-2007
-Bachelor of Science ñ Media Arts and Animation
+Bachelor of Science ‚Äì Media Arts and Animation
 Languages:
-* English†ñ Fluent
-* Spanish†ñ Semi-Fluent
-* Cantonese†ñ Basic
-* American Sign Language†ñ Basic
+* English¬†‚Äì Fluent
+* Spanish¬†‚Äì Semi-Fluent
+* Cantonese¬†‚Äì Basic
+* American Sign Language¬†‚Äì Basic
 
