@@ -21,7 +21,6 @@ def count_matching_keywords(keywords, resume_words):
 	return match_count
 
 # MAIN FUNCTION
-
 # read keywords from a file into a list
 with open(keywords_file_name) as keywords_file:
 	keywords = keywords_file.read()
@@ -41,7 +40,7 @@ for resume in glob.glob(os.path.join(resume_directory, '*txt')):
 		# store words in resume as a list
 		resume_words = resume_file.read()
 		resume_words = re.findall(r"[\w']+", resume_words)
-		score = re.search('(?<=-)\s?\d+', resume)
+		score = re.search('(?<=_)\s?\d+', resume)
 		score = score.group(0).strip()
 		print(str(resume) + " " + score)
 		# find number of occurences of keywords in the resume
