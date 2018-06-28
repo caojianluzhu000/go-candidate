@@ -1,0 +1,35 @@
+Malik Rabb
+* New York City, NY
+* (123) 456-7891
+* mrabb@email.com
+SUMMARY
+Versatile Front-end Developer with 3+ years of experience designing, developing, and managing complex e-commerce sites and internal frameworks. Specializes in AngularJS and responsive design.
+EDUCATION
+* CORAL SPRINGS UNIVERSITY
+* Aug '10
+* May '14
+* Bachelor of Science in Computer Science
+EXPERIENCE
+* CRANE & JENKINS
+* Front-end Developer
+* Feb '15
+* Current
+* 
+* Revamped UI and app interface for customer-facing e-commerce site with 200,000+ unique visitors per month
+* Designed and developed front-end for 20+ websites, using jQuery, AJAX, RequireJS, and Handlebars.js
+* Created custom AngularJS components for internal framework
+* Automated image optimization, using Grunt and minified JS and CSS, which reduced page load times by up to 30%
+* TRADELOT
+* Front-end Developer
+* Sep '14
+* Feb '15
+* 
+* Translated design team’s UX wireframes and mockups into responsive, interactive features, using HTML/CSS and JavaScript
+* Worked with agile team to migrate legacy company website to AngularJS, Sass, HTML5, and Drupal
+* Created HTML email templates that improved email CTR rates by ~25%
+* Designed and developed GUI for applications and modules, using JavaScript
+SKILLS
+* Won 1st place (out of 50+) at TradeLot’s annual hackathon
+* Expert in responsive, mobile-first development
+* JavaScript (jQuery, AngularJS, React, Bootstrap), HTML/CSS, Git, Mocha, Jasmine
+
