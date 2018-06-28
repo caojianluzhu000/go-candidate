@@ -1,0 +1,37 @@
+GABRIELLA 
+KUVALIS
+Gabriella Kuvalis
+427 Cordelia Lake
+New York 
+New York
++1 (555) 896 2060
+EXPERIENCE
+Front-End Developer 
+01/2014 – present
+* Advocated Web interaction design best practices, with a focus on consistency and usability
+* Assured that all user input is validated before submitting to back-end
+* Built reusable code and libraries for future use
+* Closely worked with back-end developers to optimize existing Web technology and create the best possible user experience
+* Collaborated with User Interface and User Experience teams
+* Collaborated with other team members and stakeholders
+* Collaborated with the design team to define the information architecture
+* Created clean, precise browser-compatible code
+* Designed functionality
+* Developed and launched better systems to purchase, manage and deliver online traffic
+* Developed new user-facing features
+* Developed site content and graphics by coordinating with copywriters and graphic artists; designing images, icons, banners, audio enhancements, etc.
+* Developed site navigation by categorizing content; funneling traffic through content
+* Ensured the technical feasibility of UI/UX designs
+* Established locatability by registering with search engines
+* Implemented functionality in JavaScript, .Net, and Python
+* Implemented page designs in standards-compliant dynamic XHTML and CSS
+* Optimized application for maximum speed and scalability
+* Planned site/project design by clarifying goals
+* Prepared site by installing and configuring server software
+* Prioritized and managed multiple tasks across multiple projects, under tight deadlines
+* Rolled out and scaled new web sites that integrate consumer marketing and social media
+* Worked with backend engineers and QA to see projects through, from conception to completion
+EDUCATION
+Rhode Island School of Design 
+2009 – 2014
+
