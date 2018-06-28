@@ -1,0 +1,54 @@
+Stella 
+Kessler
+117 Josefina Harbors 
+Phoenix 
+AZ 
+ 
+Phone
+ +1 (555) 409 3070
+EXPERIENCE
+Philadelphia, PA
+SENIOR FRONTEND DEVELOPER
+11/2014 – present
+* Lead development of core application components; full software development cycle technical analysis/technical design/implementation/testing/deployment
+* Work in a Agile scrum team. Participate in all Agile ceremonies. Work closely with the scrum master to estimate effort of new features
+* Work independently on individual projects and cohesively with other talented developers in a positive, team environment
+* Develop and maintain applications using standard development tools
+* Participate and improve development processes such as Agile, Scrum, Kanban along with strong coordination processes related to software deployments and testing
+* Flexibility and Openness combined with your willingness to perform and to work autonomously complete your profile
+* Expert knowledge of modern HTML and CSS frameworks and at least one framework such as SASS/SCSS/LESS
+Phoenix, AZ
+FRONTEND DEVELOPER
+01/2009 – 09/2014
+* Work with various JavaScript tools/technologies/frameworks such as React/Redux
+* Continuously refactor and optimize the system to improve the efficiency and quality of the development cycles
+* Work with micro-services teams on RESTful API designs - assist with future scripted API’s and websocket investigations
+* Work with the UI Designer on artistic digital design and provide animations, CSS, and final HTML output
+* Collaborate with design and development teams to develop innovative ways to deliver optimised content based on the user’s persona
+* Design and develop features for an industry leading Workload Automation product using modern front-end technologies
+* Strong working knowledge of modern JavaScript frameworks
+Dallas, TX
+JUNIOR FRONTEND DEVELOPER
+11/2001 – 07/2008
+* Collaborate with designers and back-end developers to implement and improve features
+* Writing unit tests for developed tasks
+* Ensuring high performance of application
+* Work to business time scales to deliver projects on track
+* Proven track record of being part of the successful delivery of projects across the entire app life cycle: concept, design, build, deploy, test, release to app stores and support
+* Good knowledge of development patterns
+* Design, build and deliver products across the full development lifecycle making use of the best processes and practices
+EDUCATION
+Bachelor’s Degree in Computer Science
+UNIVERSITY OF DELAWARE
+SKILLS
+* Thorough, quality mindset and attention to details, and brilliant in getting things done in an efficient way
+* Ability to work as part of team with excellent communication& interpersonal skills
+* Capable of providing reliable estimates
+* Demonstrable ability to learn and adapt
+* Strong written and oral communication skills - good command of English both spoken and written is essential-
+* Strong team player who is able to work in a globally distributed team
+* Good ability in code reviewing, refactoring, testing, analysis and optimization
+* Strong native JavaScript knowledge and awareness of libraries such as jQuery and why they might be used
+* Solid skills in troubleshooting and debugging JavaScript applications in multiple browsers
+* XSLT (should know how to use variables, loops, multiple templates)
+
