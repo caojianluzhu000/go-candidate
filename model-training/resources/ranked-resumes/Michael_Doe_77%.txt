@@ -1,0 +1,38 @@
+
+Michael.Doe@gmail.com
+IT specialist with 4+ years of professional experience in information security and digital forensics. Expert and highly familiar with a wide
+variety of security, engineering, networking, and operating system software. Possess an Associate Degree in Information Security and Digital
+Forensics
+
+TECHNICAL SKILLS*
+SECURITY: McAfee SIEM/EPO/NSM, FireEye CMS/ETP, SecureWorks, IDS/IPS, Sumo Logic cloud-based log management, SSL certificate configuration and management, Juniper NetScreen/Palo Alto Networks firewall
+REVERSE ENGINEERING: Ollydbg, WinBdg, GBD, IDA Pro, PEiD, malware sandbox
+NETWORKING: Wireshark/TCPView packet analysis, DNS servers, mail server
+OPERATING SYSTEMS: Windows XP, Vista, 7, 8; Windows Server 2003, 2008, 2012; Linux including CentOS, Ubuntu, Arch, Debian, BackTrack, and Kali
+PROFESSIONAL EXPERIENCE
+SECURITY PROFESSIONALS INC.
+Columbia, SC
+Security Operations Center Security Analyst: January 2014 – Present
+* Monitor multiple security systems for a Fortune 500 company
+* Investigate arising incidents caused by malicious activities, and identified false positives
+* Documented security events daily to create a baseline of activity for the client network
+TECHNOLOGY SMARTS
+Charleston, SC
+Network Operations Center Monitoring Technician: January 2012-December 2014
+* Refined and improved existing documentation system, resulting in reduced labor costs totaling $15,000 annually via increased workplace efficiency
+* Consolidated multiple ticketing systems, improving communication and ticket turnover rate by 7%
+* Investigated alerts created by IDS/IPS including malicious file uploads, compromised servers, SQL injections, and port scanning
+* Operated in a datacenter environment, ensuring maximum uptime for company services
+CHICAGO GOVERNMENT
+Chicago, IL
+Information Security Intern May 2011 – December 2012
+* Monitored and managed email spam filters, firewalls, anti-virus systems, and vulnerability scanners
+* Deployed and observed IDS sensors and their resulting alerts
+* Performed in-depth forensics on workstation hard drives
+* Investigated various security incidents, mostly the result of malware infections
+
+EDUCATION
+TRIDENT COMMUNITY COLLEGE
+Chicago, IL
+Associate Degree in Information Security and Digital Forensics, May 2011
+* GPA 3.7/4.0
