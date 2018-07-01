@@ -1,0 +1,4 @@
+,0,1
+0,Andrew Leschinsky,93.0000000000006
+1,Malik_Rabb,55.000000000000284
+2,William_Persinger,20.000000000000767

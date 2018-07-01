@@ -2,10 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="047286a5-e660-4055-a466-a52a211334a1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model-training/resources/unranked-resumes/processed/Joe_Smith.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model-training/resources/unranked-resumes/processed/Malik_Rabb.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model-training/resources/unranked-resumes/processed/Ana_Wink.txt" afterPath="$PROJECT_DIR$/model-training/resources/unranked-resumes/processed/Ana_Wink.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model-training/resources/unranked-resumes/processed/Mark-Shieh.txt" afterPath="$PROJECT_DIR$/model-training/resources/unranked-resumes/processed/Mark-Shieh.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model-training/resources/Resume 1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model-training/resources/predict-result.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model-training/resources/predict_resume_data.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model-training/resources/result.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model-training/resources/resumes-to-predict/Alessandra_Champlin.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model-training/resources/resumes-to-predict/Ana_Wink.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model-training/resources/resumes-to-predict/Andrew Leschinsky.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model-training/resources/resumes-to-predict/Andrew_Max.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model-training/resources/resumes-to-predict/Ebony_Moore.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model-training/resources/resumes-to-predict/Gabriella_Kuvalis.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model-training/resources/resumes-to-predict/Joe_Smith.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model-training/resources/resumes-to-predict/Malik_Rabb.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model-training/resources/resumes-to-predict/Mark-Shieh.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model-training/resources/resumes-to-predict/Mark_Antony.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model-training/resources/resumes-to-predict/Riley_Dooley.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model-training/resources/resumes-to-predict/Robert_Black.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model-training/resources/resumes-to-predict/Scott_Roberts.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model-training/resources/resumes-to-predict/Scott_Sauyet.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model-training/resources/resumes-to-predict/Stella_Kessler.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model-training/resources/resumes-to-predict/Stepan_Reznikov.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model-training/resources/resumes-to-predict/Stephanie_Scott.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model-training/resources/resumes-to-predict/William_Persinger.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model-training/resources/keywords.txt" afterPath="$PROJECT_DIR$/model-training/resources/keywords.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model-training/src/resume_predict.py" afterPath="$PROJECT_DIR$/model-training/src/resume_predict.py" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,31 +39,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Ana_Wink.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model-training/resources/resumes-to-predict/Ana_Wink.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="569">
-              <caret line="78" column="10" lean-forward="false" selection-start-line="78" selection-start-column="10" selection-end-line="78" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Mark-Shieh.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model-training/resources/resumes-to-predict/Mark-Shieh.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-159">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="resume_predict.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="resume_predict.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/model-training/src/resume_predict.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="79" column="21" lean-forward="false" selection-start-line="79" selection-start-column="21" selection-end-line="79" selection-end-column="21" />
+            <state relative-caret-position="300">
+              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -52,8 +52,28 @@
       <file leaf-file-name="predict_resume_data.csv" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/model-training/resources/predict_resume_data.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="45">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="file.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model-training/resources/file.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="keywords.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model-training/resources/keywords.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -72,8 +92,8 @@
       <file leaf-file-name="lr-model-training.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/model-training/src/lr-model-training.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="28" column="33" lean-forward="false" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+            <state relative-caret-position="131">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
                 <element signature="e#16#47#0" expanded="true" />
               </folding>
@@ -93,17 +113,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Malik_Rabb.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model-training/resources/resumes-to-predict/Malik_Rabb.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="43" lean-forward="false" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="resume_data.csv" pinned="false" current-in-tab="false">
+      <file leaf-file-name="resume_data.csv" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/model-training/resources/resume_data.csv">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
@@ -185,7 +195,6 @@
         <option value="$PROJECT_DIR$/model-training/resources/unranked-resumes/processed/Stepan_Reznikov.txt" />
         <option value="$PROJECT_DIR$/model-training/resources/unranked-resumes/processed/Stephanie_Scott.txt" />
         <option value="$PROJECT_DIR$/model-training/resources/unranked-resumes/processed/William_Persinger.txt" />
-        <option value="$PROJECT_DIR$/model-training/resources/keywords.txt" />
         <option value="$PROJECT_DIR$/model-training/resources/unranked-resumes/processed/Robert_Black.txt" />
         <option value="$PROJECT_DIR$/model-training/resources/unranked-resumes/processed/Mark_Antony.txt" />
         <option value="$PROJECT_DIR$/model-training/resources/resumes-to-predict/Ana_Wink.txt" />
@@ -193,7 +202,9 @@
         <option value="$PROJECT_DIR$/model-training/resources/unranked-resumes/processed/Malik_Rabb.txt" />
         <option value="$PROJECT_DIR$/model-training/resources/predict_resume_data.csv" />
         <option value="$PROJECT_DIR$/model-training/resources/resumes-to-predict/Malik_Rabb.txt" />
+        <option value="$PROJECT_DIR$/model-training/resources/keywords.txt" />
         <option value="$PROJECT_DIR$/model-training/src/resume_predict.py" />
+        <option value="$PROJECT_DIR$/model-training/resources/file.txt" />
       </list>
     </option>
   </component>
@@ -272,29 +283,7 @@
               <item name="go-candidate" type="462c0819:PsiDirectoryNode" />
               <item name="model-training" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="ranked-resumes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="go-candidate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="go-candidate" type="462c0819:PsiDirectoryNode" />
-              <item name="model-training" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="resumes-to-predict" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="go-candidate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="go-candidate" type="462c0819:PsiDirectoryNode" />
-              <item name="model-training" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="unranked-resumes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="go-candidate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="go-candidate" type="462c0819:PsiDirectoryNode" />
-              <item name="model-training" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="unranked-resumes" type="462c0819:PsiDirectoryNode" />
-              <item name="processed" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="go-candidate" type="b2602c69:ProjectViewProjectNode" />
@@ -580,7 +569,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="84" y="23" width="1440" height="813" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22083333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -588,12 +576,12 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32793522" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35492578" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33468285" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45748988" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22291666" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31443995" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22430556" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -632,8 +620,8 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/model-training/src/resume_predict.py</url>
-          <line>76</line>
-          <option name="timeStamp" value="22" />
+          <line>78</line>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -643,27 +631,16 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="23" />
+      <option name="time" value="27" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="data" language="Python" />
-        <watch expression="data[:,1]" language="Python" />
-        <watch expression="candidate" language="Python" />
-        <watch expression="candidate[0]" language="Python" />
-        <watch expression="predit[index]" language="Python" />
+        <watch expression="data_to_predict" language="Python" />
+        <watch expression="index" language="Python" />
       </configuration>
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/java_keywords.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="2" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/model-training/resources/ranked-resumes/a.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -694,20 +671,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/model-training/resources/resumes-to-predict/sampleresume.txt" />
-    <entry file="file://$PROJECT_DIR$/model-training/resources/result.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model-training/resources/predict-result.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/model-training/resources/Resume 1.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -851,14 +814,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model-training/resources/keywords.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="9" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/model-training/resources/unranked-resumes/processed/Stella_Kessler.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="349">
@@ -955,16 +910,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model-training/src/lr-model-training.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="28" column="33" lean-forward="false" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
-          <folding>
-            <element signature="e#16#47#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/model-training/src/resumePreprocessor.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -972,14 +917,6 @@
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model-training/resources/resume_data.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="46" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -993,18 +930,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model-training/resources/predict_resume_data.csv">
+    <entry file="file://$PROJECT_DIR$/model-training/src/lr-model-training.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="131">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#16#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model-training/resources/result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model-training/resources/predict-result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/model-training/src/resume_predict.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="79" column="21" lean-forward="false" selection-start-line="79" selection-start-column="21" selection-end-line="79" selection-end-column="21" />
+        <state relative-caret-position="300">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model-training/resources/file.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model-training/resources/predict_resume_data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model-training/resources/keywords.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model-training/resources/resume_data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="46" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="46" />
           <folding />
         </state>
       </provider>

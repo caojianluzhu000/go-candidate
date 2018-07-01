@@ -49,13 +49,16 @@ for resume in glob.glob(os.path.join(resume_directory, '*txt')):
         key_match_count = count_matching_keywords(keywords, resume_words)
         # resume_list.append({'file_name': str(resume), 'word_list': resume_words, 'score' : score, 'keywords_match_count': key_match_count})
         candidate = resume.split('/')
-        candidate = candidate[len(candidate)-1]
+        candidate = candidate[len(candidate)-1].split(".")[0]
         csv_writer.writerow([index] + [candidate] + key_match_count)
     index += 1
 
 csv_file_obj.close()
 print('Done.')
 
+def save_to_file(data, file_name):
+    df = pd.DataFrame(data)
+    df.to_csv("/Users/yixuanchen/go-candidate/model-training/resources/" + file_name, sep=',', encoding='utf-8')
 
 
 import pickle
@@ -75,6 +78,6 @@ result_output = []
 for candidate in data:
     result_output.append([candidate[0], predit[index]])
     print(candidate[0] + "," + str(predit[index]))
-    index+1
+    index = index+1
 
-pd1 = pd.DataFrame(re)
+save_to_file(result_output, "file.txt")
